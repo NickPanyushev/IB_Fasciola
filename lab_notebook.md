@@ -1,13 +1,13 @@
 1) Download data from NCBI-SRA
 
-ERX535560 adult      ERR577157 ad2   
-ERX535563 adult      ERR577160 ad3 
-ERX535561 egg       ERR577158	egg2 
-ERX535360 egg       ERR576954    egg1 
-ERX535363 juvenile    ERR576957    juv1 
-ERX535362 juvenile     ERR576956    juv1 
-ERX535371 metacercaria   ERR576965   met0hr_3 
-ERX535370 metacerc.   ERR576964    met0hr_2 
+ERX535560 adult      ERR577157 ad2     
+ERX535563 adult      ERR577160 ad3   
+ERX535561 egg       ERR577158	egg2   
+ERX535360 egg       ERR576954    egg1   
+ERX535363 juvenile    ERR576957    juv1   
+ERX535362 juvenile     ERR576956    juv1   
+ERX535371 metacercaria   ERR576965   met0hr_3   
+ERX535370 metacerc.   ERR576964    met0hr_2   
 
 
 ```
