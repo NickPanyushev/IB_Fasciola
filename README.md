@@ -9,5 +9,5 @@ Our study is devoted to detecting transposons in transcriptomes of four differen
 ## Goals
 1. Create mapping of RNA-seq data onto a list of transposons sequences 
 2. Quantify expression from mappings for each transposon
-2. Normalize TE data using statistical approach and compute differential expression 
+2. Normalize TE data using statistical approach
 4. Discover differentially expressed TEs on each stage of F. hepatica life cycle
