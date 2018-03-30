@@ -7,7 +7,7 @@ Transposable elements (TEs) are highly repetitive mobile sequences, which play d
 Our study is devoted to detecting transposons in transcriptomes of four different life-cycle stages of F. hepatica and analyzing their differential expression across stages.
 
 ## Goals
-1. Create mapping of RNA-seq data onto a list of transposons sequences and estimate the expression levels for each transposon
-2. Assemble RNA-Seq data with a reference genome
-3. Normalize TE data using information about constitutive genes
-4. Discover highly expressed TEs on each stage of F. hepatica life cycle
+1. Create mapping of RNA-seq data onto a list of transposons sequences 
+2. Quantify expression from mappings for each transposon
+2. Normalize TE data using statistical approach and compute differential expression 
+4. Discover differentially expressed TEs on each stage of F. hepatica life cycle
