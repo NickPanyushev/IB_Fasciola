@@ -1,0 +1,9 @@
+sample	condition
+576954	egg
+576956	juv
+576957	juv
+576964	metacerc
+576965	metacerc
+577157	adult
+577158	egg
+577160	adult

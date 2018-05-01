@@ -1,0 +1,13 @@
+{
+	"n_targets": 1785,
+	"n_bootstraps": 100,
+	"n_processed": 40888360,
+	"n_pseudoaligned": 357193,
+	"n_unique": 269801,
+	"p_pseudoaligned": 0.9,
+	"p_unique": 0.7,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Tue Apr 24 21:43:51 2018",
+	"call": "./kallisto quant -i repeats -o kallistob_577160 -t 8 -b 100 /Johnny/skalon/fasciola/trim/ERR577160_filtered_1P.fastq /Johnny/skalon/fasciola/trim/ERR577160_filtered_2P.fastq"
+}
