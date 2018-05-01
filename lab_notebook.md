@@ -54,16 +54,17 @@ kallisto quant -i repeats -o ERR* -t 8 -b 100 ./trim/ERR*_1P.fastq ./trim/ERR*_2
 
 sleuth
 
-info.txt:
-sample	condition
-576954	egg
-576956	juv
-576957	juv
-576964	metacerc
-576965	metacerc
-577157	adult
-577158	egg
-577160	adult
+info.txt:  
+sample	condition  
+576954	egg  
+576956	juv  
+576957	juv  
+576964	metacerc  
+576965	metacerc  
+577157	adult  
+577158	egg  
+577160	adult  
+
 
 ```r
 library(sleuth)
