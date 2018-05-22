@@ -83,5 +83,10 @@ see sleuth_res
    Rscript TEdiff_new.R --args --FDR_level=0.05 --count_column=3 --count_file=\"all_same_3.csv\" experiment_formula=\"sample:replicant:condition\" --sample_names=\"adult:1:adult,adult:2:adult,egg:1:egg,egg:2:egg,juv:1:juv,juv:2:juv,met:1:met,met:2:met\" --outdir=\"all_out\" --htmlfile=\"all_out.html\"
 ```
 TEdiff_new.R vs. TEdiff.R (default in TEtools):  
-read.csv          read.table  
-TE = DESeq(TE, test='LRT', full=~sample, reduced=~1)  TE = DESeq(TE, betaPrior=FALSE)  
+read.csv          ~~read.table~~  
+TE = DESeq(TE, test='LRT', full=~sample, reduced=~1)  ~~TE = DESeq(TE, betaPrior=FALSE)~~  
+```bash
+dds <- nbinomLRT(TE, full=~sample, reduced = ~ 1)
+res <- results(dds)
+write.csv(res, file = paste0(outdir, "/nbinom", "~", variable_names[1], ".csv"))
+```
