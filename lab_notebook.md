@@ -71,16 +71,17 @@ results:
 see sleuth_res
 
   5.1 TEtools (TEcount+TEdiff (DeSeq2; with some changes))
- rosette file:
- see same.csv
+ rosette file:  
+ see same.csv  
  
- TEcount
+ TEcount  
  ```bash
   python3 -u TEcount.py -rosette same.csv -column 3 -TE_fasta f_hepatica-families.fa -count all_same_3 -RNA /Johnny/skalon/fasciola/trim/ERR577157_filtered5_1P.fastq /Johnny/skalon/fasciola/trim/ERR577160_filtered_1P.fastq /Johnny/skalon/fasciola/trim/ERR577158_filtered_1P.fastq /Johnny/skalon/fasciola/trim/ERR576954_filtered_1P.fastq /Johnny/skalon/fasciola/trim/ERR576957_filtered_1P.fastq /Johnny/skalon/fasciola/trim/ERR576956_filtered_1P.fastq /Johnny/skalon/fasciola/trim/ERR576965_filtered_1P.fastq /Johnny/skalon/fasciola/trim/ERR576964_filtered_1P.fastq -RNApair /Johnny/skalon/fasciola/trim/ERR577157_filtered5_2P.fastq /Johnny/skalon/fasciola/trim/ERR577160_filtered_2P.fastq /Johnny/skalon/fasciola/trim/ERR577158_filtered_2P.fastq /Johnny/skalon/fasciola/trim/ERR576954_filtered_2P.fastq /Johnny/skalon/fasciola/trim/ERR576957_filtered_2P.fastq /Johnny/skalon/fasciola/trim/ERR576956_filtered_2P.fastq /Johnny/skalon/fasciola/trim/ERR576965_filtered_2P.fastq /Johnny/skalon/fasciola/trim/ERR576964_filtered_2P.fastq -bowtie2 -insert 100 | tee all_same_3.log
   ```
-  TEdiff
+  TEdiff  
   ```bash
    Rscript TEdiff_new.R --args --FDR_level=0.05 --count_column=3 --count_file=\"all_same_3.csv\" experiment_formula=\"sample:replicant:condition\" --sample_names=\"adult:1:adult,adult:2:adult,egg:1:egg,egg:2:egg,juv:1:juv,juv:2:juv,met:1:met,met:2:met\" --outdir=\"all_out\" --htmlfile=\"all_out.html\"
 ```
-TEdiff_new.R vs. TEdiff.R (default in TEtools):
-read.csv          read.table
+TEdiff_new.R vs. TEdiff.R (default in TEtools):  
+read.csv          read.table  
+TE = DESeq(TE, test='LRT', full=~sample, reduced=~1)  TE = DESeq(TE, betaPrior=FALSE)  
