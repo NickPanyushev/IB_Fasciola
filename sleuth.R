@@ -42,6 +42,7 @@ kallisto_table(so, use_filtered=T, normalized=T, include_covariates=T)
 
 # представление результатов в виде удобной матрицы
 matrix = sleuth_to_matrix(so, "obs_norm", "tpm")
+write.csv(matrix, file = "~/ncbi/sleuth_res/res_matrix.csv")
 
 
 filtered.cor <- function(x){    
