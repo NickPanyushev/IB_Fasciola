@@ -35,11 +35,12 @@ All steps can be found in [lab notebook](https://github.com/NickPanyushev/IB_Fas
 * Trimmomatic v.0.36
 * FastQC v.0.11.7
 * kallisto v.0.44.0 
-* sleuth v.0.29.0
+* sleuth R package v.0.29.0
 * TEtools v.3 
-* DeSeq2 v.1.18.1
+* DeSeq2 R package v.1.18.1
 
 ## Results
 Both approaches to DE analysis show similiar results.
-All results can be found in ...
+All results can be found in repo:
+[sleuth](https://github.com/NickPanyushev/IB_Fasciola/tree/master/sleuth_res)
 ....
