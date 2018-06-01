@@ -43,4 +43,4 @@ All steps can be found in [lab notebook](https://github.com/NickPanyushev/IB_Fas
 Both approaches to DE analysis show similiar results.
 All results can be found in repo:
 [sleuth](https://github.com/NickPanyushev/IB_Fasciola/tree/master/sleuth_res)
-....
+[DeSeq2](https://github.com/NickPanyushev/IB_Fasciola/tree/master/DeSeq2_res)
