@@ -14,7 +14,7 @@ Our study is devoted to detecting transposons in transcriptomes of four differen
 
 ## Methods
 
-### F. hepatica RNA-seq data
+### *F. hepatica* RNA-seq data
 For our purposes we used public data which can be found in SRA NCBI archive.  
 Acsessions: [ERX535560](https://www.ncbi.nlm.nih.gov/sra/?term=ERX535560), [ERX535563](https://www.ncbi.nlm.nih.gov/sra/?term=ERX535563), [ERX535561](https://www.ncbi.nlm.nih.gov/sra/?term=ERX535561), [ERX535360](https://www.ncbi.nlm.nih.gov/sra/?term=ERX535360), [ERX535363](https://www.ncbi.nlm.nih.gov/sra/?term=ERX535363), [ERX535362](https://www.ncbi.nlm.nih.gov/sra/?term=ERX535362), [ERX535371](https://www.ncbi.nlm.nih.gov/sra/?term=ERX535371), [ERX535370](https://www.ncbi.nlm.nih.gov/sra/?term=ERX535370).  
 Info table: [SraRunInfo](https://github.com/NickPanyushev/IB_Fasciola/blob/master/SraRunTable.csv)
