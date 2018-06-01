@@ -72,13 +72,14 @@ see [sleuth_res](https://github.com/NickPanyushev/IB_Fasciola/tree/master/sleuth
  ```bash
   python3 -u TEcount.py -rosette same.csv -column 3 -TE_fasta f_hepatica-families.fa -count all_same_3 -RNA /Johnny/skalon/fasciola/trim/ERR577157_filtered5_1P.fastq /Johnny/skalon/fasciola/trim/ERR577160_filtered_1P.fastq /Johnny/skalon/fasciola/trim/ERR577158_filtered_1P.fastq /Johnny/skalon/fasciola/trim/ERR576954_filtered_1P.fastq /Johnny/skalon/fasciola/trim/ERR576957_filtered_1P.fastq /Johnny/skalon/fasciola/trim/ERR576956_filtered_1P.fastq /Johnny/skalon/fasciola/trim/ERR576965_filtered_1P.fastq /Johnny/skalon/fasciola/trim/ERR576964_filtered_1P.fastq -RNApair /Johnny/skalon/fasciola/trim/ERR577157_filtered5_2P.fastq /Johnny/skalon/fasciola/trim/ERR577160_filtered_2P.fastq /Johnny/skalon/fasciola/trim/ERR577158_filtered_2P.fastq /Johnny/skalon/fasciola/trim/ERR576954_filtered_2P.fastq /Johnny/skalon/fasciola/trim/ERR576957_filtered_2P.fastq /Johnny/skalon/fasciola/trim/ERR576956_filtered_2P.fastq /Johnny/skalon/fasciola/trim/ERR576965_filtered_2P.fastq /Johnny/skalon/fasciola/trim/ERR576964_filtered_2P.fastq -bowtie2 -insert 100 | tee all_same_3.log
   ```
-  results:
-  see [all_same_3.csv](https://github.com/NickPanyushev/IB_Fasciola/blob/master/all_same_3.csv)
+  results:  
+  see [all_same_3.csv](https://github.com/NickPanyushev/IB_Fasciola/blob/master/all_same_3.csv)  
+  
   DeSeq2.R 
   ```bash
    Rscript DeSeq2.R --args --FDR_level=0.05 --count_column=3 --count_file=\"all_same_3.csv\" experiment_formula=\"sample:replicant\" --sample_names=\"adult:1,adult:2,egg:1,egg:2,juv:1,juv:2,met:1,met:2\" --outdir=\"DeSeq2_res\"
 ```
-code:  
+code:    
 see [DeSeq2.R](https://github.com/NickPanyushev/IB_Fasciola/blob/master/DeSeq2.R)  
-results: 
+results:   
 see [DeSeq2_res](https://github.com/NickPanyushev/IB_Fasciola/tree/master/DeSeq2_res)
