@@ -26,7 +26,7 @@ As well we applied fasta file with repeatitive elements of *F.hepatica* genome, 
 Short outline of our work:
 ![workflow](https://github.com/NickPanyushev/IB_Fasciola/blob/master/some%20useful%20pictures/project_workflow.png)
 
-First of all, row reads of 4 developmental stages were filtered using Trimmomatic and FastQC for quality control. Differential expression analysis was performed with two separate methods: kallisto + sleuth and TEtools + DeSeq2. To analyze any TEs that show change in expression across the different stages, likelihood ratio test (LRT) was implemented. In the end lists of significant TEs (FDR>0.05), which are differentially expressed across developmental stages, was obtained. 
+First of all, row reads of 4 developmental stages were downloaded and then filtered using Trimmomatic and FastQC for quality control. Differential expression analysis was performed with two separate methods: kallisto + sleuth and TEtools + DeSeq2. To analyze any TEs that show change in expression across the different stages, likelihood ratio test (LRT) was implemented. In the end lists of significant TEs (FDR>0.05), which are differentially expressed across developmental stages, was obtained. 
 All steps can be found in [lab notebook](https://github.com/NickPanyushev/IB_Fasciola/blob/master/lab_notebook.md)
 
 ### System requirements
@@ -41,6 +41,21 @@ All steps can be found in [lab notebook](https://github.com/NickPanyushev/IB_Fas
 
 ## Results
 Both approaches to DE analysis show similiar results.
-All results can be found in repo:
-[sleuth](https://github.com/NickPanyushev/IB_Fasciola/tree/master/sleuth_res)
-[DeSeq2](https://github.com/NickPanyushev/IB_Fasciola/tree/master/DeSeq2_res)
+All results can be found in:  
+[sleuth](https://github.com/NickPanyushev/IB_Fasciola/tree/master/sleuth_res)    
+[DeSeq2](https://github.com/NickPanyushev/IB_Fasciola/tree/master/DeSeq2_res)  
+
+For example,
+![PCA](https://github.com/NickPanyushev/IB_Fasciola/blob/master/DeSeq2_res/PCA.png)  
+PCA shows that all stages clearly differ from each other, but the difference between two biological replicates is not significant.
+
+![S-t-s distance](https://github.com/NickPanyushev/IB_Fasciola/blob/master/DeSeq2_res/Sample-to-sample%20distances~sample.png)    
+Sample-to-sample distances heatmap based on euclidean distance illustrates relations between samples.
+
+![heatmap](https://github.com/NickPanyushev/IB_Fasciola/blob/master/some%20useful%20pictures/heatmap.png)  
+Heatmap demonstrates difference in expression pattern of the most significant TEs.   
+
+![boxplot](https://github.com/NickPanyushev/IB_Fasciola/blob/master/sleuth_res/box_1.png)  
+
+
+
