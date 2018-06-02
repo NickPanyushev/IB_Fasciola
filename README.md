@@ -47,7 +47,7 @@ All results can be found in:
 
 For example,
 ![PCA](https://github.com/NickPanyushev/IB_Fasciola/blob/master/DeSeq2_res/PCA.png)  
-PCA shows that all stages clearly differ from each other, but the difference between two biological replicates is not significant.
+PCA shows that all stages clearly differ from each other, but the difference between two biological replicates is not very significant.
 
 ![S-t-s distance](https://github.com/NickPanyushev/IB_Fasciola/blob/master/DeSeq2_res/Sample-to-sample%20distances~sample.png)    
 Sample-to-sample distances heatmap based on euclidean distance illustrates relations between samples.
@@ -55,7 +55,9 @@ Sample-to-sample distances heatmap based on euclidean distance illustrates relat
 ![heatmap](https://github.com/NickPanyushev/IB_Fasciola/blob/master/some%20useful%20pictures/heatmap.png)  
 Heatmap demonstrates difference in expression pattern of the most significant TEs.   
 
-![boxplot](https://github.com/NickPanyushev/IB_Fasciola/blob/master/sleuth_res/box_1.png)  
+![boxplot](https://github.com/NickPanyushev/IB_Fasciola/blob/master/sleuth_res/box_1.png)    
+The difference in the expression level is also noticeable for a particular TE.  
 
-
+## Supervisors
+Anna Solovyeva, Nickolay Panuyshev
 
