@@ -61,3 +61,6 @@ The difference in the expression level is also noticeable for a particular TE.
 ## Supervisors
 Anna Solovyeva, Nickolay Panuyshev
 
+## References  
+1. Vasconcelos EJR et al, 2017. The Schistosoma mansoni genome encodes thousands of long non-coding RNAs predicted to be functional at different parasite life-cycle stages. Sci Rep. 2017 Sep 5;7(1):10508. doi: 10.1038/s41598-017-10853-6.
+
