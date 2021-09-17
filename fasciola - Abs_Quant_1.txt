@@ -1,0 +1,97 @@
+﻿Color	Position	Sample Name	Gene Name	Cq	Concentration	Call	Excluded	Sample Type	Standard	Cq Mean	Cq Error	Concentration Mean	Concentration Error	Replicate Group	Dye	Edited Call	Slope	EPF	Failure	Notes	Sample Prep Notes	Number
+255;132;197;238	A1	760G1	1juv	23.80	-	Positive	Unchecked	Unknown	-	23.66	0.20	-	-	A1	SYBR Green I	 	1.33	4.83	None			1
+255;132;197;238	A2	760G1	2juv	23.89	-	Positive	Unchecked	Unknown	-	23.91	0.02	-	-	A2	SYBR Green I	 	1.46	5.08	None			2
+255;132;197;238	A3	760G1	3juv	23.73	-	Positive	Unchecked	Unknown	-	23.95	0.30	-	-	A3	SYBR Green I	 	1.51	5.16	None			3
+255;132;197;238	A4	760G1	egg1	29.49	-	Positive	Unchecked	Unknown	-	29.41	0.11	-	-	A4	SYBR Green I	 	1.37	4.77	None			4
+255;132;197;238	A5	760G1	egg2	29.43	-	Positive	Unchecked	Unknown	-	29.50	0.09	-	-	A5	SYBR Green I	 	1.32	4.71	None			5
+255;132;197;238	A6	760G1	egg3	31.38	-	Positive	Unchecked	Unknown	-	31.46	0.11	-	-	A6	SYBR Green I	 	1.30	4.59	None			6
+255;132;197;238	A7	760G1	met1	33.70	-	Positive	Unchecked	Unknown	-	34.13	0.61	-	-	A7	SYBR Green I	 	1.31	4.53	None			7
+255;132;197;238	A8	760G1	met2	33.92	-	Positive	Unchecked	Unknown	-	33.58	0.48	-	-	A8	SYBR Green I	 	1.31	4.55	None			8
+255;132;197;238	A9	760G1	met3	35.18	-	Positive	Unchecked	Unknown	-	34.79	0.56	-	-	A9	SYBR Green I	 	1.45	4.57	None			9
+255;132;197;238	A10	760G1	ad1	20.83	-	Positive	Unchecked	Unknown	-	20.82	0.02	-	-	A10	SYBR Green I	 	1.62	5.36	None			10
+255;132;197;238	A11	760G1	ad2	20.61	-	Positive	Unchecked	Unknown	-	20.69	0.11	-	-	A11	SYBR Green I	 	1.63	5.37	None			11
+255;132;197;238	A12	760G1	ad3	21.81	-	Positive	Unchecked	Unknown	-	21.83	0.02	-	-	A12	SYBR Green I	 	1.72	5.50	None			12
+255;132;197;238	B1	760G1	1juv	23.52	-	Positive	Unchecked	Unknown	-	23.66	0.20	-	-	A1	SYBR Green I	 	1.49	5.11	None			13
+255;132;197;238	B2	760G1	2juv	23.92	-	Positive	Unchecked	Unknown	-	23.91	0.02	-	-	A2	SYBR Green I	 	1.45	5.10	None			14
+255;132;197;238	B3	760G1	3juv	24.16	-	Positive	Unchecked	Unknown	-	23.95	0.30	-	-	A3	SYBR Green I	 	1.56	5.26	None			15
+255;132;197;238	B4	760G1	egg1	29.33	-	Positive	Unchecked	Unknown	-	29.41	0.11	-	-	A4	SYBR Green I	 	1.43	4.90	None			16
+255;132;197;238	B5	760G1	egg2	29.56	-	Positive	Unchecked	Unknown	-	29.50	0.09	-	-	A5	SYBR Green I	 	1.42	4.86	None			17
+255;132;197;238	B6	760G1	egg3	31.54	-	Positive	Unchecked	Unknown	-	31.46	0.11	-	-	A6	SYBR Green I	 	1.37	4.73	None			18
+255;132;197;238	B7	760G1	met1	34.56	-	Positive	Unchecked	Unknown	-	34.13	0.61	-	-	A7	SYBR Green I	 	1.35	4.52	None			19
+255;132;197;238	B8	760G1	met2	33.24	-	Positive	Unchecked	Unknown	-	33.58	0.48	-	-	A8	SYBR Green I	 	1.15	4.69	None			20
+255;132;197;238	B9	760G1	met3	34.39	-	Positive	Unchecked	Unknown	-	34.79	0.56	-	-	A9	SYBR Green I	 	1.46	4.70	None			21
+255;132;197;238	B10	760G1	ad1	20.80	-	Positive	Unchecked	Unknown	-	20.82	0.02	-	-	A10	SYBR Green I	 	1.61	5.34	None			22
+255;132;197;238	B11	760G1	ad2	20.76	-	Positive	Unchecked	Unknown	-	20.69	0.11	-	-	A11	SYBR Green I	 	1.57	5.29	None			23
+255;132;197;238	B12	760G1	ad3	21.84	-	Positive	Unchecked	Unknown	-	21.83	0.02	-	-	A12	SYBR Green I	 	1.73	5.49	None			24
+255;234;79;79	C1	355Z1	1juv	27.43	-	Positive	Unchecked	Unknown	-	27.47	0.05	-	-	C1	SYBR Green I	 	1.60	4.16	None			25
+255;234;79;79	C2	355Z1	2juv	27.59	-	Positive	Unchecked	Unknown	-	27.73	0.20	-	-	C2	SYBR Green I	 	1.71	4.41	None			26
+255;234;79;79	C3	355Z1	3juv	27.47	-	Positive	Unchecked	Unknown	-	27.32	0.22	-	-	C3	SYBR Green I	 	1.83	4.70	None			27
+255;234;79;79	C4	355Z1	egg1	29.95	-	Positive	Unchecked	Unknown	-	30.02	0.10	-	-	C4	SYBR Green I	 	1.73	4.68	None			28
+255;234;79;79	C5	355Z1	egg2	30.17	-	Positive	Unchecked	Unknown	-	30.27	0.13	-	-	C5	SYBR Green I	 	1.68	4.63	None			29
+255;234;79;79	C6	355Z1	egg3	32.01	-	Positive	Unchecked	Unknown	-	32.05	0.06	-	-	C6	SYBR Green I	 	1.69	4.74	None			30
+255;234;79;79	C7	355Z1	met1	30.04	-	Positive	Unchecked	Unknown	-	30.19	0.21	-	-	C7	SYBR Green I	 	1.77	4.65	None			31
+255;234;79;79	C8	355Z1	met2	30.77	-	Positive	Unchecked	Unknown	-	30.56	0.30	-	-	C8	SYBR Green I	 	1.81	4.83	None			32
+255;234;79;79	C9	355Z1	met3	30.60	-	Positive	Unchecked	Unknown	-	30.69	0.12	-	-	C9	SYBR Green I	 	1.87	4.88	None			33
+255;234;79;79	C10	355Z1	ad1	25.23	-	Positive	Unchecked	Unknown	-	25.25	0.02	-	-	C10	SYBR Green I	 	1.78	4.78	None			34
+255;234;79;79	C11	355Z1	ad2	25.33	-	Positive	Unchecked	Unknown	-	25.39	0.08	-	-	C11	SYBR Green I	 	1.92	4.98	None			35
+255;234;79;79	C12	355Z1	ad3	26.52	-	Positive	Unchecked	Unknown	-	26.54	0.02	-	-	C12	SYBR Green I	 	1.84	4.89	None			36
+255;234;79;79	D1	355Z1	1juv	27.50	-	Positive	Unchecked	Unknown	-	27.47	0.05	-	-	C1	SYBR Green I	 	1.64	4.41	None			37
+255;234;79;79	D2	355Z1	2juv	27.87	-	Positive	Unchecked	Unknown	-	27.73	0.20	-	-	C2	SYBR Green I	 	1.63	4.52	None			38
+255;234;79;79	D3	355Z1	3juv	27.16	-	Positive	Unchecked	Unknown	-	27.32	0.22	-	-	C3	SYBR Green I	 	1.78	4.54	None			39
+255;234;79;79	D4	355Z1	egg1	30.09	-	Positive	Unchecked	Unknown	-	30.02	0.10	-	-	C4	SYBR Green I	 	1.74	4.66	None			40
+255;234;79;79	D5	355Z1	egg2	30.36	-	Positive	Unchecked	Unknown	-	30.27	0.13	-	-	C5	SYBR Green I	 	1.68	4.63	None			41
+255;234;79;79	D6	355Z1	egg3	32.09	-	Positive	Unchecked	Unknown	-	32.05	0.06	-	-	C6	SYBR Green I	 	1.74	4.71	None			42
+255;234;79;79	D7	355Z1	met1	30.34	-	Positive	Unchecked	Unknown	-	30.19	0.21	-	-	C7	SYBR Green I	 	1.80	4.78	None			43
+255;234;79;79	D8	355Z1	met2	30.34	-	Positive	Unchecked	Unknown	-	30.56	0.30	-	-	C8	SYBR Green I	 	1.77	4.72	None			44
+255;234;79;79	D9	355Z1	met3	30.77	-	Positive	Unchecked	Unknown	-	30.69	0.12	-	-	C9	SYBR Green I	 	1.89	4.88	None			45
+255;234;79;79	D10	355Z1	ad1	25.26	-	Positive	Unchecked	Unknown	-	25.25	0.02	-	-	C10	SYBR Green I	 	1.91	4.95	None			46
+255;234;79;79	D11	355Z1	ad2	25.44	-	Positive	Unchecked	Unknown	-	25.39	0.08	-	-	C11	SYBR Green I	 	1.84	4.88	None			47
+255;234;79;79	D12	355Z1	ad3	26.55	-	Positive	Unchecked	Unknown	-	26.54	0.02	-	-	C12	SYBR Green I	 	1.88	4.92	None			48
+255;34;176;146	E1	297U1	1juv	24.97	-	Positive	Unchecked	Unknown	-	24.94	0.04	-	-	E1	SYBR Green I	 	1.40	4.42	None			49
+255;34;176;146	E2	297U1	2juv	25.39	-	Positive	Unchecked	Unknown	-	25.45	0.08	-	-	E2	SYBR Green I	 	1.53	4.65	None			50
+255;34;176;146	E3	297U1	3juv	25.05	-	Positive	Unchecked	Unknown	-	24.98	0.11	-	-	E3	SYBR Green I	 	1.62	4.74	None			51
+255;34;176;146	E4	297U1	egg1	26.95	-	Positive	Unchecked	Unknown	-	26.92	0.05	-	-	E4	SYBR Green I	 	1.62	4.86	None			52
+255;34;176;146	E5	297U1	egg2	26.70	-	Positive	Unchecked	Unknown	-	26.78	0.11	-	-	E5	SYBR Green I	 	1.61	4.81	None			53
+255;34;176;146	E6	297U1	egg3	28.57	-	Positive	Unchecked	Unknown	-	28.68	0.15	-	-	E6	SYBR Green I	 	1.57	4.66	None			54
+255;34;176;146	E7	297U1	met1	34.58	-	Positive	Unchecked	Unknown	-	33.97	0.86	-	-	E7	SYBR Green I	 	1.20	4.07	None			55
+255;34;176;146	E8	297U1	met2	33.32	-	Positive	Unchecked	Unknown	-	33.71	0.55	-	-	E8	SYBR Green I	 	1.61	4.57	None			56
+255;34;176;146	E9	297U1	met3	35.58	-	Positive	Unchecked	Unknown	-	35.58	0.00	-	-	E9	SYBR Green I	 	1.54	4.48	Replicate group contains positives and negatives.			57
+255;34;176;146	E10	297U1	ad1	22.36	-	Positive	Unchecked	Unknown	-	22.38	0.03	-	-	E10	SYBR Green I	 	1.72	4.90	None			58
+255;34;176;146	E11	297U1	ad2	22.34	-	Positive	Unchecked	Unknown	-	22.36	0.03	-	-	E11	SYBR Green I	 	1.70	4.86	None			59
+255;34;176;146	E12	297U1	ad3	23.37	-	Positive	Unchecked	Unknown	-	23.31	0.08	-	-	E12	SYBR Green I	 	1.71	4.90	None			60
+255;34;176;146	F1	297U1	1juv	24.91	-	Positive	Unchecked	Unknown	-	24.94	0.04	-	-	E1	SYBR Green I	 	1.28	4.18	None			61
+255;34;176;146	F2	297U1	2juv	25.51	-	Positive	Unchecked	Unknown	-	25.45	0.08	-	-	E2	SYBR Green I	 	1.52	4.66	None			62
+255;34;176;146	F3	297U1	3juv	24.90	-	Positive	Unchecked	Unknown	-	24.98	0.11	-	-	E3	SYBR Green I	 	1.57	4.68	None			63
+255;34;176;146	F4	297U1	egg1	26.88	-	Positive	Unchecked	Unknown	-	26.92	0.05	-	-	E4	SYBR Green I	 	1.58	4.77	None			64
+255;34;176;146	F5	297U1	egg2	26.86	-	Positive	Unchecked	Unknown	-	26.78	0.11	-	-	E5	SYBR Green I	 	1.52	4.70	None			65
+255;34;176;146	F6	297U1	egg3	28.78	-	Positive	Unchecked	Unknown	-	28.68	0.15	-	-	E6	SYBR Green I	 	1.57	4.71	None			66
+255;34;176;146	F7	297U1	met1	33.36	-	Positive	Unchecked	Unknown	-	33.97	0.86	-	-	E7	SYBR Green I	 	1.57	4.41	None			67
+255;34;176;146	F8	297U1	met2	34.10	-	Positive	Unchecked	Unknown	-	33.71	0.55	-	-	E8	SYBR Green I	 	1.54	4.49	None			68
+255;34;176;146	F9	297U1	met3	-	-	Negative	Unchecked	Unknown	-	-	-	-	-	E9	SYBR Green I	 	0.10	0.26	Replicate group contains positives and negatives.			69
+255;34;176;146	F10	297U1	ad1	22.40	-	Positive	Unchecked	Unknown	-	22.38	0.03	-	-	E10	SYBR Green I	 	1.56	4.67	None			70
+255;34;176;146	F11	297U1	ad2	22.38	-	Positive	Unchecked	Unknown	-	22.36	0.03	-	-	E11	SYBR Green I	 	1.53	4.65	None			71
+255;34;176;146	F12	297U1	ad3	23.25	-	Positive	Unchecked	Unknown	-	23.31	0.08	-	-	E12	SYBR Green I	 	1.64	4.80	None			72
+255;95;103;174	G1	eprs_gene	1juv	24.68	-	Positive	Unchecked	Positive control	-	24.68	0.00	-	-		SYBR Green I	 	1.42	4.82	None			73
+255;95;103;174	G2	eprs_gene	2juv	24.35	-	Positive	Unchecked	Positive control	-	24.35	0.00	-	-		SYBR Green I	 	1.48	4.95	None			74
+255;95;103;174	G3	eprs_gene	3juv	24.55	-	Positive	Unchecked	Positive control	-	27.83	4.64	-	-	G3	SYBR Green I	 	1.46	4.94	None			75
+255;95;103;174	G4	eprs_gene	egg1	28.41	-	Positive	Unchecked	Positive control	-	28.41	0.00	-	-		SYBR Green I	 	1.48	4.81	None			76
+255;95;103;174	G5	eprs_gene	egg2	28.62	-	Positive	Unchecked	Positive control	-	28.62	0.00	-	-		SYBR Green I	 	1.44	4.74	None			77
+255;95;103;174	G6	eprs_gene	3juv	31.11	-	Positive	Unchecked	Positive control	-	27.83	4.64	-	-	G3	SYBR Green I	 	1.41	4.62	None			78
+255;95;103;174	G7	eprs_gene	met1	33.14	-	Positive	Unchecked	Positive control	-	33.14	0.00	-	-		SYBR Green I	 	1.39	4.45	None			79
+255;95;103;174	G8	eprs_gene	met2	32.25	-	Positive	Unchecked	Positive control	-	32.25	0.00	-	-		SYBR Green I	 	1.44	4.55	None			80
+255;95;103;174	G9	eprs_gene	met3	31.92	-	Positive	Unchecked	Positive control	-	31.92	0.00	-	-		SYBR Green I	 	1.47	4.61	None			81
+255;95;103;174	G10	eprs_gene	ad1	23.50	-	Positive	Unchecked	Positive control	-	23.50	0.00	-	-		SYBR Green I	 	1.58	5.11	None			82
+255;95;103;174	G11	eprs_gene	ad2	23.52	-	Positive	Unchecked	Positive control	-	23.52	0.00	-	-		SYBR Green I	 	1.50	4.97	None			83
+255;95;103;174	G12	eprs_gene	ad3	24.59	-	Positive	Unchecked	Positive control	-	24.59	0.00	-	-		SYBR Green I	 	1.46	4.90	None			84
+255;180;73;149	H1	760G1	None	-	-	Negative	Unchecked	Negative control	-	-	-	-	-	H1	SYBR Green I	 	0.01	0.06	None			85
+255;180;73;149	H2	760G1	None	-	-	Negative	Unchecked	Negative control	-	-	-	-	-	H1	SYBR Green I	 	0.01	0.11	None			86
+255;180;73;149	H3	760G1	None	-	-	Negative	Unchecked	Negative control	-	-	-	-	-	H1	SYBR Green I	 	0.01	0.08	None			87
+255;205;18;55	H4	355Z1	None	-	-	Negative	Unchecked	Negative control	-	-	-	-	-	H4	SYBR Green I	 	0.01	0.08	Replicate group contains positives and negatives.			88
+255;205;18;55	H5	355Z1	None	-	-	Negative	Unchecked	Negative control	-	-	-	-	-	H4	SYBR Green I	 	0.14	0.23	Replicate group contains positives and negatives.			89
+255;205;18;55	H6	355Z1	None	41.02	-	Positive	Unchecked	Negative control	-	41.02	0.00	-	-	H4	SYBR Green I	 	1.19	1.68	Neg Ctrl is positive, Replicate group contains positives and negatives.			90
+255;66;41;24	H7	297U1	None	-	-	Negative	Unchecked	Negative control	-	-	-	-	-	H7	SYBR Green I	 	0.03	0.19	Replicate group contains positives and negatives.			91
+255;66;41;24	H8	297U1	None	35.62	-	Positive	Unchecked	Negative control	-	35.27	0.50	-	-	H7	SYBR Green I	 	1.41	4.33	Neg Ctrl is positive, Replicate group contains positives and negatives.			92
+255;66;41;24	H9	297U1	None	34.91	-	Positive	Unchecked	Negative control	-	35.27	0.50	-	-	H7	SYBR Green I	 	1.37	4.20	Neg Ctrl is positive, Replicate group contains positives and negatives.			93
+255;242;138;21	H10	eprs_gene	None	-	-	Negative	Unchecked	Negative control	-	-	-	-	-	H10	SYBR Green I	 	0.01	0.05	None			94
+255;242;138;21	H11	eprs_gene	None	-	-	Negative	Unchecked	Negative control	-	-	-	-	-	H10	SYBR Green I	 	0.02	0.12	None			95
+255;242;138;21	H12	eprs_gene	None	-	-	Negative	Unchecked	Negative control	-	-	-	-	-	H10	SYBR Green I	 	0.01	0.06	None			96

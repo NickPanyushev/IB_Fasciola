@@ -1,0 +1,97 @@
+File Name	Analysis Name	Plate Id	Position	Sample Name	Gene Name	Cq	Concentration	Call	Excluded	Sample Type	Standard	Cq Mean	Cq Error	Concentration Mean	Concentration Error	Replicate Group	Dye	Edited Call	Slope	EPF	Failure	Notes	Sample Prep Notes	Number
+fasciola_823_catepsin.lc96p	Abs Quant		A1	823п4	1juv	27.85		Positive	Unchecked	Unknown		27.995	0.205060966544098			A1	SYBR Green I	Unchecked	0.5446	2.75224956750567	None			1
+fasciola_823_catepsin.lc96p	Abs Quant		A2	823п4	2juv	28.23		Positive	Unchecked	Unknown		28.305	0.106066017177981			A2	SYBR Green I	Unchecked	0.4914	2.58121318886435	None			2
+fasciola_823_catepsin.lc96p	Abs Quant		A3	823п4	3juv	28.32		Positive	Unchecked	Unknown		28.46	0.197989898732234			A3	SYBR Green I	Unchecked	0.4868	2.53449150479962	None			3
+fasciola_823_catepsin.lc96p	Abs Quant		A4	823п4	egg1	33.29		Positive	Unchecked	Unknown		33.395	0.148492424049178			A4	SYBR Green I	Unchecked	0.4115	2.25340939010912	None			4
+fasciola_823_catepsin.lc96p	Abs Quant		A5	823п4	egg2	33.87		Positive	Unchecked	Unknown		33.95	0.113137084989848			A5	SYBR Green I	Unchecked	0.4273	2.31888674340395	None			5
+fasciola_823_catepsin.lc96p	Abs Quant		A6	823п4	egg3	36.21		Positive	Unchecked	Unknown		35.97	0.339411254969546			A6	SYBR Green I	Unchecked	0.385	1.93489635729536	None			6
+fasciola_823_catepsin.lc96p	Abs Quant		A7	823п4	met1	36.16		Positive	Unchecked	Unknown		36.03	0.183847763108503			A7	SYBR Green I	Unchecked	0.4166	2.09216796205433	None			7
+fasciola_823_catepsin.lc96p	Abs Quant		A8	823п4	met2	34.83		Positive	Unchecked	Unknown		35.035	0.28991378028649			A8	SYBR Green I	Unchecked	0.3615	2.02204892897869	None			8
+fasciola_823_catepsin.lc96p	Abs Quant		A9	823п4	met3	36.21		Positive	Unchecked	Unknown		36.405	0.275771644662754			A9	SYBR Green I	Unchecked	0.3702	2.04009304656906	None			9
+fasciola_823_catepsin.lc96p	Abs Quant		A10	823п4	ad1	25.1		Positive	Unchecked	Unknown		25.3	0.282842712474618			A10	SYBR Green I	Unchecked	0.4596	2.49006391273883	None			10
+fasciola_823_catepsin.lc96p	Abs Quant		A11	823п4	ad2	25.01		Positive	Unchecked	Unknown		25.145	0.190918830920366			A11	SYBR Green I	Unchecked	0.4513	2.46655802265196	None			11
+fasciola_823_catepsin.lc96p	Abs Quant		A12	823п4	ad3	25.7		Positive	Unchecked	Unknown		25.81	0.155563491861041			A12	SYBR Green I	Unchecked	0.4908	2.59302649669238	None			12
+fasciola_823_catepsin.lc96p	Abs Quant		B1	823п4	1juv	28.14		Positive	Unchecked	Unknown		27.995	0.205060966544098			A1	SYBR Green I	Unchecked	0.5965	2.976255862906	None			13
+fasciola_823_catepsin.lc96p	Abs Quant		B2	823п4	2juv	28.38		Positive	Unchecked	Unknown		28.305	0.106066017177981			A2	SYBR Green I	Unchecked	0.5064	2.63248845833987	None			14
+fasciola_823_catepsin.lc96p	Abs Quant		B3	823п4	3juv	28.6		Positive	Unchecked	Unknown		28.46	0.197989898732234			A3	SYBR Green I	Unchecked	0.5162	2.68580101571516	None			15
+fasciola_823_catepsin.lc96p	Abs Quant		B4	823п4	egg1	33.5		Positive	Unchecked	Unknown		33.395	0.148492424049178			A4	SYBR Green I	Unchecked	0.4473	2.40181296535841	None			16
+fasciola_823_catepsin.lc96p	Abs Quant		B5	823п4	egg2	34.03		Positive	Unchecked	Unknown		33.95	0.113137084989848			A5	SYBR Green I	Unchecked	0.442	2.36971995240653	None			17
+fasciola_823_catepsin.lc96p	Abs Quant		B6	823п4	egg3	35.73		Positive	Unchecked	Unknown		35.97	0.339411254969546			A6	SYBR Green I	Unchecked	0.4065	2.17657416812302	None			18
+fasciola_823_catepsin.lc96p	Abs Quant		B7	823п4	met1	35.9		Positive	Unchecked	Unknown		36.03	0.183847763108503			A7	SYBR Green I	Unchecked	0.4034	2.07948658249919	None			19
+fasciola_823_catepsin.lc96p	Abs Quant		B8	823п4	met2	35.24		Positive	Unchecked	Unknown		35.035	0.28991378028649			A8	SYBR Green I	Unchecked	0.4186	2.22073849751441	None			20
+fasciola_823_catepsin.lc96p	Abs Quant		B9	823п4	met3	36.6		Positive	Unchecked	Unknown		36.405	0.275771644662754			A9	SYBR Green I	Unchecked	0.4088	2.03973296139138	None			21
+fasciola_823_catepsin.lc96p	Abs Quant		B10	823п4	ad1	25.5		Positive	Unchecked	Unknown		25.3	0.282842712474618			A10	SYBR Green I	Unchecked	0.473	2.54000708723176	None			22
+fasciola_823_catepsin.lc96p	Abs Quant		B11	823п4	ad2	25.28		Positive	Unchecked	Unknown		25.145	0.190918830920366			A11	SYBR Green I	Unchecked	0.4864	2.63812970010764	None			23
+fasciola_823_catepsin.lc96p	Abs Quant		B12	823п4	ad3	25.92		Positive	Unchecked	Unknown		25.81	0.155563491861041			A12	SYBR Green I	Unchecked	0.4768	2.60688411456217	None			24
+fasciola_823_catepsin.lc96p	Abs Quant		C1	cat1	1juv	26.2		Positive	Unchecked	Unknown		26.22	0.0282842712474613			C1	SYBR Green I	Unchecked	0.5463	2.76441550450481	None			25
+fasciola_823_catepsin.lc96p	Abs Quant		C2	cat1	2juv	25.6		Positive	Unchecked	Unknown		25.66	0.0848528137423839			C2	SYBR Green I	Unchecked	0.5435	2.77939985835529	None			26
+fasciola_823_catepsin.lc96p	Abs Quant		C3	cat1	3juv	26.38		Positive	Unchecked	Unknown		26.4	0.0282842712474651			C3	SYBR Green I	Unchecked	0.519	2.7051167640249	None			27
+fasciola_823_catepsin.lc96p	Abs Quant		C4	cat1	egg1			Negative	Unchecked	Unknown						C4	SYBR Green I	Unchecked	0.0555	0.421561661829964	None			28
+fasciola_823_catepsin.lc96p	Abs Quant		C5	cat1	egg2			Negative	Unchecked	Unknown						C5	SYBR Green I	Unchecked	0.0304	0.3944899851368	None			29
+fasciola_823_catepsin.lc96p	Abs Quant		C6	cat1	egg3			Negative	Unchecked	Unknown						C6	SYBR Green I	Unchecked	0.0385	0.39178800012265	None			30
+fasciola_823_catepsin.lc96p	Abs Quant		C7	cat1	met1	37.08		Positive	Unchecked	Unknown		36.585	0.700035713374678			C7	SYBR Green I	Unchecked	0.4411	2.05407435029546	None			31
+fasciola_823_catepsin.lc96p	Abs Quant		C8	cat1	met2	37.31		Positive	Unchecked	Unknown		38.365	1.49199530830362			C8	SYBR Green I	Unchecked	0.4427	2.04598983000907	None			32
+fasciola_823_catepsin.lc96p	Abs Quant		C9	cat1	met3	37.51		Positive	Unchecked	Unknown		36.81	0.989949493661168			C9	SYBR Green I	Unchecked	0.4545	2.092448099935	None			33
+fasciola_823_catepsin.lc96p	Abs Quant		C10	cat1	ad1	18.87		Positive	Unchecked	Unknown		18.81	0.0848528137423877			C10	SYBR Green I	Unchecked	0.4988	2.57769583243916	None			34
+fasciola_823_catepsin.lc96p	Abs Quant		C11	cat1	ad2	19.27		Positive	Unchecked	Unknown		19.185	0.120208152801713			C11	SYBR Green I	Unchecked	0.5457	2.78450383896708	None			35
+fasciola_823_catepsin.lc96p	Abs Quant		C12	cat1	ad3	19.78		Positive	Unchecked	Unknown		19.82	0.0565685424949226			C12	SYBR Green I	Unchecked	0.5683	2.86262491977011	None			36
+fasciola_823_catepsin.lc96p	Abs Quant		D1	cat1	1juv	26.24		Positive	Unchecked	Unknown		26.22	0.0282842712474613			C1	SYBR Green I	Unchecked	0.5096	2.72001453107543	None			37
+fasciola_823_catepsin.lc96p	Abs Quant		D2	cat1	2juv	25.72		Positive	Unchecked	Unknown		25.66	0.0848528137423839			C2	SYBR Green I	Unchecked	0.5484	2.81241441723218	None			38
+fasciola_823_catepsin.lc96p	Abs Quant		D3	cat1	3juv	26.42		Positive	Unchecked	Unknown		26.4	0.0282842712474651			C3	SYBR Green I	Unchecked	0.5263	2.74308520434846	None			39
+fasciola_823_catepsin.lc96p	Abs Quant		D4	cat1	egg1			Negative	Unchecked	Unknown						C4	SYBR Green I	Unchecked	0.1339	0.262795478109264	None			40
+fasciola_823_catepsin.lc96p	Abs Quant		D5	cat1	egg2			Negative	Unchecked	Unknown						C5	SYBR Green I	Unchecked	0.0319	0.41643892968265	None			41
+fasciola_823_catepsin.lc96p	Abs Quant		D6	cat1	egg3			Negative	Unchecked	Unknown						C6	SYBR Green I	Unchecked	0.0678	0.415628344271871	None			42
+fasciola_823_catepsin.lc96p	Abs Quant		D7	cat1	met1	36.09		Positive	Unchecked	Unknown		36.585	0.700035713374678			C7	SYBR Green I	Unchecked	0.4741	2.24167305525161	None			43
+fasciola_823_catepsin.lc96p	Abs Quant		D8	cat1	met2	39.42		Positive	Unchecked	Unknown		38.365	1.49199530830362			C8	SYBR Green I	Unchecked	0.455	1.77375955666067	None			44
+fasciola_823_catepsin.lc96p	Abs Quant		D9	cat1	met3	36.11		Positive	Unchecked	Unknown		36.81	0.989949493661168			C9	SYBR Green I	Unchecked	0.4785	2.22516009622451	None			45
+fasciola_823_catepsin.lc96p	Abs Quant		D10	cat1	ad1	18.75		Positive	Unchecked	Unknown		18.81	0.0848528137423877			C10	SYBR Green I	Unchecked	0.5279	2.69336507202586	None			46
+fasciola_823_catepsin.lc96p	Abs Quant		D11	cat1	ad2	19.1		Positive	Unchecked	Unknown		19.185	0.120208152801713			C11	SYBR Green I	Unchecked	0.5407	2.72289226787562	None			47
+fasciola_823_catepsin.lc96p	Abs Quant		D12	cat1	ad3	19.86		Positive	Unchecked	Unknown		19.82	0.0565685424949226			C12	SYBR Green I	Unchecked	0.5452	2.74493934603122	None			48
+fasciola_823_catepsin.lc96p	Abs Quant		E1	eprs_gene	1juv	26.81		Positive	Unchecked	Positive control		26.87	0.0848528137423877			E1	SYBR Green I	Unchecked	0.6372	2.87520890632663	None			49
+fasciola_823_catepsin.lc96p	Abs Quant		E2	eprs_gene	2juv	26.43		Positive	Unchecked	Positive control		26.45	0.0282842712474613			E2	SYBR Green I	Unchecked	0.6755	2.96862874141591	None			50
+fasciola_823_catepsin.lc96p	Abs Quant		E3	eprs_gene	3juv	26.59		Positive	Unchecked	Positive control		26.59	0			E3	SYBR Green I	Unchecked	0.6203	2.78250275664004	Replicate group contains positives and negatives.			51
+fasciola_823_catepsin.lc96p	Abs Quant		E4	eprs_gene	egg1	30.06		Positive	Unchecked	Positive control		30.205	0.205060966544102			E4	SYBR Green I	Unchecked	0.625	2.75172828406466	None			52
+fasciola_823_catepsin.lc96p	Abs Quant		E5	eprs_gene	egg2	30.64		Positive	Unchecked	Positive control		30.585	0.0777817459305198			E5	SYBR Green I	Unchecked	0.6075	2.71203305710607	None			53
+fasciola_823_catepsin.lc96p	Abs Quant		E6	eprs_gene	egg3	32.83		Positive	Unchecked	Positive control		32.915	0.120208152801714			E6	SYBR Green I	Unchecked	0.5985	2.67658190058022	None			54
+fasciola_823_catepsin.lc96p	Abs Quant		E7	eprs_gene	met1	35.13		Positive	Unchecked	Positive control		34.365	1.08187337521542			E7	SYBR Green I	Unchecked	0.5368	2.38013604554643	None			55
+fasciola_823_catepsin.lc96p	Abs Quant		E8	eprs_gene	met2	33.82		Positive	Unchecked	Positive control		33.98	0.226274169979693			E8	SYBR Green I	Unchecked	0.5145	2.45909393335764	None			56
+fasciola_823_catepsin.lc96p	Abs Quant		E9	eprs_gene	met3	33.19		Positive	Unchecked	Positive control		33.69	0.707106781186548			E9	SYBR Green I	Unchecked	0.576	2.62285429295418	None			57
+fasciola_823_catepsin.lc96p	Abs Quant		E10	eprs_gene	ad1	25.58		Positive	Unchecked	Positive control		25.765	0.261629509039022			E10	SYBR Green I	Unchecked	0.5952	2.72879749203169	None			58
+fasciola_823_catepsin.lc96p	Abs Quant		E11	eprs_gene	ad2	25.63		Positive	Unchecked	Positive control		25.71	0.113137084989846			E11	SYBR Green I	Unchecked	0.6376	2.86174259950403	None			59
+fasciola_823_catepsin.lc96p	Abs Quant		E12	eprs_gene	ad3	26.22		Positive	Unchecked	Positive control		26.295	0.106066017177982			E12	SYBR Green I	Unchecked	0.6496	2.91357423987208	None			60
+fasciola_823_catepsin.lc96p	Abs Quant		F1	eprs_gene	1juv	26.93		Positive	Unchecked	Positive control		26.87	0.0848528137423877			E1	SYBR Green I	Unchecked	0.6496	2.88763250787845	None			61
+fasciola_823_catepsin.lc96p	Abs Quant		F2	eprs_gene	2juv	26.47		Positive	Unchecked	Positive control		26.45	0.0282842712474613			E2	SYBR Green I	Unchecked	0.6704	2.96735318258879	None			62
+fasciola_823_catepsin.lc96p	Abs Quant		F3	eprs_gene	3juv			Negative	Unchecked	Positive control						E3	SYBR Green I	Unchecked	0.0629	0.500451213242275	Pos Ctrl is negative, Replicate group contains positives and negatives.			63
+fasciola_823_catepsin.lc96p	Abs Quant		F4	eprs_gene	egg1	30.35		Positive	Unchecked	Positive control		30.205	0.205060966544102			E4	SYBR Green I	Unchecked	0.6086	2.73380290219412	None			64
+fasciola_823_catepsin.lc96p	Abs Quant		F5	eprs_gene	egg2	30.53		Positive	Unchecked	Positive control		30.585	0.0777817459305198			E5	SYBR Green I	Unchecked	0.6163	2.75288568827037	None			65
+fasciola_823_catepsin.lc96p	Abs Quant		F6	eprs_gene	egg3	33		Positive	Unchecked	Positive control		32.915	0.120208152801714			E6	SYBR Green I	Unchecked	0.6154	2.71048800314678	None			66
+fasciola_823_catepsin.lc96p	Abs Quant		F7	eprs_gene	met1	33.6		Positive	Unchecked	Positive control		34.365	1.08187337521542			E7	SYBR Green I	Unchecked	0.5458	2.48839161781818	None			67
+fasciola_823_catepsin.lc96p	Abs Quant		F8	eprs_gene	met2	34.14		Positive	Unchecked	Positive control		33.98	0.226274169979693			E8	SYBR Green I	Unchecked	0.5899	2.58137377205278	None			68
+fasciola_823_catepsin.lc96p	Abs Quant		F9	eprs_gene	met3	34.19		Positive	Unchecked	Positive control		33.69	0.707106781186548			E9	SYBR Green I	Unchecked	0.544	2.50501938294222	None			69
+fasciola_823_catepsin.lc96p	Abs Quant		F10	eprs_gene	ad1	25.95		Positive	Unchecked	Positive control		25.765	0.261629509039022			E10	SYBR Green I	Unchecked	0.5643	2.60806904470461	None			70
+fasciola_823_catepsin.lc96p	Abs Quant		F11	eprs_gene	ad2	25.79		Positive	Unchecked	Positive control		25.71	0.113137084989846			E11	SYBR Green I	Unchecked	0.6228	2.80582502833495	None			71
+fasciola_823_catepsin.lc96p	Abs Quant		F12	eprs_gene	ad3	26.37		Positive	Unchecked	Positive control		26.295	0.106066017177982			E12	SYBR Green I	Unchecked	0.6303	2.80784457108217	None			72
+fasciola_823_catepsin.lc96p	Abs Quant		G1	eprs_gene	DNA	25.93		Positive	Unchecked	Positive control		25.9766666666667	0.245850410295416			G1	SYBR Green I	Unchecked	0.6527	2.88293580399469	None			73
+fasciola_823_catepsin.lc96p	Abs Quant		G2	eprs_gene	DNA	25.88		Positive	Unchecked	Positive control		25.9766666666667	0.245850410295416			G1	SYBR Green I	Unchecked	0.6382	2.87523181287035	None			74
+fasciola_823_catepsin.lc96p	Abs Quant		G3	eprs_gene	DNA	25.32		Positive	Unchecked	Positive control		25.9766666666667	0.245850410295416			G1	SYBR Green I	Unchecked	0.6085	2.75466869019912	None			75
+fasciola_823_catepsin.lc96p	Abs Quant		G4	eprs_gene	DNA	25.9		Positive	Unchecked	Positive control		25.9766666666667	0.245850410295416			G1	SYBR Green I	Unchecked	0.6297	2.84763186419245	None			76
+fasciola_823_catepsin.lc96p	Abs Quant		G5	eprs_gene	DNA	26.05		Positive	Unchecked	Positive control		25.9766666666667	0.245850410295416			G1	SYBR Green I	Unchecked	0.6561	2.89962462275525	None			77
+fasciola_823_catepsin.lc96p	Abs Quant		G6	eprs_gene	DNA	26.22		Positive	Unchecked	Positive control		25.9766666666667	0.245850410295416			G1	SYBR Green I	Unchecked	0.6193	2.7913995358372	None			78
+fasciola_823_catepsin.lc96p	Abs Quant		G7	eprs_gene	DNA	26.27		Positive	Unchecked	Positive control		25.9766666666667	0.245850410295416			G1	SYBR Green I	Unchecked	0.6059	2.71822035438289	None			79
+fasciola_823_catepsin.lc96p	Abs Quant		G8	eprs_gene	DNA	26.11		Positive	Unchecked	Positive control		25.9766666666667	0.245850410295416			G1	SYBR Green I	Unchecked	0.584	2.64608045797779	None			80
+fasciola_823_catepsin.lc96p	Abs Quant		G9	eprs_gene	DNA	25.84		Positive	Unchecked	Positive control		25.9766666666667	0.245850410295416			G1	SYBR Green I	Unchecked	0.6412	2.84521013387949	None			81
+fasciola_823_catepsin.lc96p	Abs Quant		G10	eprs_gene	DNA	26.09		Positive	Unchecked	Positive control		25.9766666666667	0.245850410295416			G1	SYBR Green I	Unchecked	0.6271	2.78505387571212	None			82
+fasciola_823_catepsin.lc96p	Abs Quant		G11	eprs_gene	DNA	26.1		Positive	Unchecked	Positive control		25.9766666666667	0.245850410295416			G1	SYBR Green I	Unchecked	0.6367	2.83315485866782	None			83
+fasciola_823_catepsin.lc96p	Abs Quant		G12	eprs_gene	DNA	26.01		Positive	Unchecked	Positive control		25.9766666666667	0.245850410295416			G1	SYBR Green I	Unchecked	0.6155	2.73435430388057	None			84
+fasciola_823_catepsin.lc96p	Abs Quant		H1	cat1	None			Negative	Unchecked	Negative control						H1	SYBR Green I	Unchecked	0.0524	0.449831593265277	None			85
+fasciola_823_catepsin.lc96p	Abs Quant		H2	cat1	None			Negative	Unchecked	Negative control						H1	SYBR Green I	Unchecked	0.0647	0.366187751170245	None			86
+fasciola_823_catepsin.lc96p	Abs Quant		H3	cat1	None			Negative	Unchecked	Negative control						H1	SYBR Green I	Unchecked	0.054	0.471527782784703	None			87
+fasciola_823_catepsin.lc96p	Abs Quant		H4	cat1	None			Negative	Unchecked	Negative control						H1	SYBR Green I	Unchecked	0.066	0.389052973758569	None			88
+fasciola_823_catepsin.lc96p	Abs Quant		H5	cat1	None			Negative	Unchecked	Negative control						H1	SYBR Green I	Unchecked	0.0757	0.400046704308444	None			89
+fasciola_823_catepsin.lc96p	Abs Quant		H6	cat1	None			Negative	Unchecked	Negative control						H1	SYBR Green I	Unchecked	0.0617	0.44051084441144	None			90
+fasciola_823_catepsin.lc96p	Abs Quant		H7	cat1	None			Negative	Unchecked	Negative control						H1	SYBR Green I	Unchecked	0.0804	0.426681002248225	None			91
+fasciola_823_catepsin.lc96p	Abs Quant		H8	cat1	None			Negative	Unchecked	Negative control						H1	SYBR Green I	Unchecked	0.0559	0.29637364929519	None			92
+fasciola_823_catepsin.lc96p	Abs Quant		H9	cat1	None			Negative	Unchecked	Negative control						H1	SYBR Green I	Unchecked	0.0664	0.3743932339328	None			93
+fasciola_823_catepsin.lc96p	Abs Quant		H10	cat1	None			Negative	Unchecked	Negative control						H1	SYBR Green I	Unchecked	0.0318	0.383470239401302	None			94
+fasciola_823_catepsin.lc96p	Abs Quant		H11	cat1	None			Negative	Unchecked	Negative control						H1	SYBR Green I	Unchecked	0.0524	0.438098828813157	None			95
+fasciola_823_catepsin.lc96p	Abs Quant		H12	cat1	None			Negative	Unchecked	Negative control						H1	SYBR Green I	Unchecked	0.0386	0.369026856550902	None			96

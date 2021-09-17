@@ -1,0 +1,97 @@
+File Name	Analysis Name	Plate Id	Position	Sample Name	Gene Name	Cq	Concentration	Call	Excluded	Sample Type	Standard	Cq Mean	Cq Error	Concentration Mean	Concentration Error	Replicate Group	Dye	Edited Call	Slope	EPF	Failure	Notes	Sample Prep Notes	Number
+fasciola_355Z2.lc96p	Abs Quant		A1	355Z2	1juv	30.47		Positive	Unchecked	Unknown		30.25	0.202977831301844			A1	SYBR Green I	Unchecked	0.5337	2.364591	None			1
+fasciola_355Z2.lc96p	Abs Quant		A2	355Z2	2juv	30.24		Positive	Unchecked	Unknown		30.1133333333333	0.708543106192793			A2	SYBR Green I	Unchecked	0.9982	3.322693	None			2
+fasciola_355Z2.lc96p	Abs Quant		A3	355Z2	3juv	30.75		Positive	Unchecked	Unknown		31.4933333333333	2.480006720421			A3	SYBR Green I	Unchecked	0.7595	2.730329	None			3
+fasciola_355Z2.lc96p	Abs Quant		A4	355Z2	egg1	31.39		Positive	Unchecked	Unknown		31.8066666666667	0.388887301584059			A4	SYBR Green I	Unchecked	1.0181	3.354713	None			4
+fasciola_355Z2.lc96p	Abs Quant		A5	355Z2	egg2	32.78		Positive	Unchecked	Unknown		32.2366666666667	0.48686069191642			A5	SYBR Green I	Unchecked	1.0201	3.478627	None			5
+fasciola_355Z2.lc96p	Abs Quant		A6	355Z2	egg3	33.56		Positive	Unchecked	Unknown		33.3266666666667	0.205993527406406			A6	SYBR Green I	Unchecked	0.9353	3.272058	None			6
+fasciola_355Z2.lc96p	Abs Quant		A7	355Z2	met1	31.95		Positive	Unchecked	Unknown		31.8266666666667	0.258134331953991			A7	SYBR Green I	Unchecked	0.8064	3.014777	None			7
+fasciola_355Z2.lc96p	Abs Quant		A8	355Z2	met2	31.4		Positive	Unchecked	Unknown		31.4566666666667	0.125033328890074			A8	SYBR Green I	Unchecked	0.8989	3.167514	None			8
+fasciola_355Z2.lc96p	Abs Quant		A9	355Z2	met3	32.4		Positive	Unchecked	Unknown		32.0533333333333	0.304357246231026			A9	SYBR Green I	Unchecked	0.9533	3.37507	None			9
+fasciola_355Z2.lc96p	Abs Quant		A10	355Z2	ad1	26.89		Positive	Unchecked	Unknown		27.0366666666667	0.155670592384476			A10	SYBR Green I	Unchecked	1.1859	3.554355	None			10
+fasciola_355Z2.lc96p	Abs Quant		A11	355Z2	ad2	27.1		Positive	Unchecked	Unknown		27.12	0.170880074906351			A11	SYBR Green I	Unchecked	0.9652	3.130571	None			11
+fasciola_355Z2.lc96p	Abs Quant		A12	355Z2	ad3	27.77		Positive	Unchecked	Unknown		27.6933333333333	0.141539158303746			A12	SYBR Green I	Unchecked	1.0674	3.28537	None			12
+fasciola_355Z2.lc96p	Abs Quant		B1	355Z2	1juv	30.07		Positive	Unchecked	Unknown		30.25	0.202977831301844			A1	SYBR Green I	Unchecked	0.9912	3.346101	None			13
+fasciola_355Z2.lc96p	Abs Quant		B2	355Z2	2juv	30.75		Positive	Unchecked	Unknown		30.1133333333333	0.708543106192793			A2	SYBR Green I	Unchecked	0.5753	2.289166	None			14
+fasciola_355Z2.lc96p	Abs Quant		B3	355Z2	3juv	34.26		Positive	Unchecked	Unknown		31.4933333333333	2.480006720421			A3	SYBR Green I	Unchecked	0.2637	1.75442	None			15
+fasciola_355Z2.lc96p	Abs Quant		B4	355Z2	egg1	31.87		Positive	Unchecked	Unknown		31.8066666666667	0.388887301584059			A4	SYBR Green I	Unchecked	1.0893	3.473828	None			16
+fasciola_355Z2.lc96p	Abs Quant		B5	355Z2	egg2	31.84		Positive	Unchecked	Unknown		32.2366666666667	0.48686069191642			A5	SYBR Green I	Unchecked	1.1081	3.632837	None			17
+fasciola_355Z2.lc96p	Abs Quant		B6	355Z2	egg3	33.17		Positive	Unchecked	Unknown		33.3266666666667	0.205993527406406			A6	SYBR Green I	Unchecked	1.0623	3.586015	None			18
+fasciola_355Z2.lc96p	Abs Quant		B7	355Z2	met1	32		Positive	Unchecked	Unknown		31.8266666666667	0.258134331953991			A7	SYBR Green I	Unchecked	1.0865	3.695648	None			19
+fasciola_355Z2.lc96p	Abs Quant		B8	355Z2	met2	31.6		Positive	Unchecked	Unknown		31.4566666666667	0.125033328890074			A8	SYBR Green I	Unchecked	1.0646	3.600812	None			20
+fasciola_355Z2.lc96p	Abs Quant		B9	355Z2	met3	31.93		Positive	Unchecked	Unknown		32.0533333333333	0.304357246231026			A9	SYBR Green I	Unchecked	0.9608	3.422109	None			21
+fasciola_355Z2.lc96p	Abs Quant		B10	355Z2	ad1	27.02		Positive	Unchecked	Unknown		27.0366666666667	0.155670592384476			A10	SYBR Green I	Unchecked	1.1105	3.432113	None			22
+fasciola_355Z2.lc96p	Abs Quant		B11	355Z2	ad2	26.96		Positive	Unchecked	Unknown		27.12	0.170880074906351			A11	SYBR Green I	Unchecked	1.1469	3.460057	None			23
+fasciola_355Z2.lc96p	Abs Quant		B12	355Z2	ad3	27.78		Positive	Unchecked	Unknown		27.6933333333333	0.141539158303746			A12	SYBR Green I	Unchecked	0.8224	2.464611	None			24
+fasciola_355Z2.lc96p	Abs Quant		C1	355Z2	1juv	30.21		Positive	Unchecked	Unknown		30.25	0.202977831301844			A1	SYBR Green I	Unchecked	0.8329	3.044044	None			25
+fasciola_355Z2.lc96p	Abs Quant		C2	355Z2	2juv	29.35		Positive	Unchecked	Unknown		30.1133333333333	0.708543106192793			A2	SYBR Green I	Unchecked	1.2057	3.66535	None			26
+fasciola_355Z2.lc96p	Abs Quant		C3	355Z2	3juv	29.47		Positive	Unchecked	Unknown		31.4933333333333	2.480006720421			A3	SYBR Green I	Unchecked	0.9928	3.583141	None			27
+fasciola_355Z2.lc96p	Abs Quant		C4	355Z2	egg1	32.16		Positive	Unchecked	Unknown		31.8066666666667	0.388887301584059			A4	SYBR Green I	Unchecked	1.313	4.118707	None			28
+fasciola_355Z2.lc96p	Abs Quant		C5	355Z2	egg2	32.09		Positive	Unchecked	Unknown		32.2366666666667	0.48686069191642			A5	SYBR Green I	Unchecked	1.0241	3.489261	None			29
+fasciola_355Z2.lc96p	Abs Quant		C6	355Z2	egg3	33.25		Positive	Unchecked	Unknown		33.3266666666667	0.205993527406406			A6	SYBR Green I	Unchecked	1.1376	3.780188	None			30
+fasciola_355Z2.lc96p	Abs Quant		C7	355Z2	met1	31.53		Positive	Unchecked	Unknown		31.8266666666667	0.258134331953991			A7	SYBR Green I	Unchecked	1.0803	3.634901	None			31
+fasciola_355Z2.lc96p	Abs Quant		C8	355Z2	met2	31.37		Positive	Unchecked	Unknown		31.4566666666667	0.125033328890074			A8	SYBR Green I	Unchecked	1.1329	3.814883	None			32
+fasciola_355Z2.lc96p	Abs Quant		C9	355Z2	met3	31.83		Positive	Unchecked	Unknown		32.0533333333333	0.304357246231026			A9	SYBR Green I	Unchecked	1.0334	3.664413	None			33
+fasciola_355Z2.lc96p	Abs Quant		C10	355Z2	ad1	27.2		Positive	Unchecked	Unknown		27.0366666666667	0.155670592384476			A10	SYBR Green I	Unchecked	1.0548	3.268933	None			34
+fasciola_355Z2.lc96p	Abs Quant		C11	355Z2	ad2	27.3		Positive	Unchecked	Unknown		27.12	0.170880074906351			A11	SYBR Green I	Unchecked	1.1627	3.520437	None			35
+fasciola_355Z2.lc96p	Abs Quant		C12	355Z2	ad3	27.53		Positive	Unchecked	Unknown		27.6933333333333	0.141539158303746			A12	SYBR Green I	Unchecked	1.0853	3.372853	None			36
+fasciola_355Z2.lc96p	Abs Quant		D1	eprs_gene	1juv	26.02		Positive	Unchecked	Positive control		26.05	0.0360555127546389			D1	SYBR Green I	Unchecked	0.791	3.486204	None			37
+fasciola_355Z2.lc96p	Abs Quant		D2	eprs_gene	2juv	25.74		Positive	Unchecked	Positive control		25.6833333333333	0.0981495457622356			D2	SYBR Green I	Unchecked	1.0479	4.033999	None			38
+fasciola_355Z2.lc96p	Abs Quant		D3	eprs_gene	3juv	26.09		Positive	Unchecked	Positive control		26.35	0.485386443980463			D3	SYBR Green I	Unchecked	0.9034	3.700804	None			39
+fasciola_355Z2.lc96p	Abs Quant		D4	eprs_gene	egg1	29.48		Positive	Unchecked	Positive control		29.2266666666667	0.237135685491098			D4	SYBR Green I	Unchecked	1.17	4.198879	None			40
+fasciola_355Z2.lc96p	Abs Quant		D5	eprs_gene	egg2	29.64		Positive	Unchecked	Positive control		29.5833333333333	0.378197479279455			D5	SYBR Green I	Unchecked	1.0334	3.896833	None			41
+fasciola_355Z2.lc96p	Abs Quant		D6	eprs_gene	egg3	31.61		Positive	Unchecked	Positive control		31.44	0.285832118559129			D6	SYBR Green I	Unchecked	0.9393	3.625275	None			42
+fasciola_355Z2.lc96p	Abs Quant		D7	eprs_gene	met1	34.26		Positive	Unchecked	Positive control		33.6033333333333	0.604510821518798			D7	SYBR Green I	Unchecked	0.9688	3.601356	None			43
+fasciola_355Z2.lc96p	Abs Quant		D8	eprs_gene	met2	32.55		Positive	Unchecked	Positive control		32.9133333333333	0.71765822877839			D8	SYBR Green I	Unchecked	0.8346	3.341305	None			44
+fasciola_355Z2.lc96p	Abs Quant		D9	eprs_gene	met3	32.38		Positive	Unchecked	Positive control		32.3733333333333	0.0802080627701083			D9	SYBR Green I	Unchecked	0.9887	3.703767	None			45
+fasciola_355Z2.lc96p	Abs Quant		D10	eprs_gene	ad1	24.99		Positive	Unchecked	Positive control		25.01	0.0435889894354067			D10	SYBR Green I	Unchecked	0.9651	3.856716	None			46
+fasciola_355Z2.lc96p	Abs Quant		D11	eprs_gene	ad2	24.98		Positive	Unchecked	Positive control		25.04	0.0721110255092807			D11	SYBR Green I	Unchecked	0.9929	3.93462	None			47
+fasciola_355Z2.lc96p	Abs Quant		D12	eprs_gene	ad3	25.37		Positive	Unchecked	Positive control		25.4966666666667	0.111504857891185			D12	SYBR Green I	Unchecked	1.0043	3.960628	None			48
+fasciola_355Z2.lc96p	Abs Quant		E1	eprs_gene	1juv	26.04		Positive	Unchecked	Positive control		26.05	0.0360555127546389			D1	SYBR Green I	Unchecked	0.6304	2.972411	None			49
+fasciola_355Z2.lc96p	Abs Quant		E2	eprs_gene	2juv	25.57		Positive	Unchecked	Positive control		25.6833333333333	0.0981495457622356			D2	SYBR Green I	Unchecked	1.1223	4.172917	None			50
+fasciola_355Z2.lc96p	Abs Quant		E3	eprs_gene	3juv	26.05		Positive	Unchecked	Positive control		26.35	0.485386443980463			D3	SYBR Green I	Unchecked	0.8137	3.47241	None			51
+fasciola_355Z2.lc96p	Abs Quant		E4	eprs_gene	egg1	29.01		Positive	Unchecked	Positive control		29.2266666666667	0.237135685491098			D4	SYBR Green I	Unchecked	1.0768	4.036863	None			52
+fasciola_355Z2.lc96p	Abs Quant		E5	eprs_gene	egg2	29.18		Positive	Unchecked	Positive control		29.5833333333333	0.378197479279455			D5	SYBR Green I	Unchecked	0.9745	3.806489	None			53
+fasciola_355Z2.lc96p	Abs Quant		E6	eprs_gene	egg3	31.11		Positive	Unchecked	Positive control		31.44	0.285832118559129			D6	SYBR Green I	Unchecked	0.8963	3.563564	None			54
+fasciola_355Z2.lc96p	Abs Quant		E7	eprs_gene	met1	33.07		Positive	Unchecked	Positive control		33.6033333333333	0.604510821518798			D7	SYBR Green I	Unchecked	0.9184	3.541225	None			55
+fasciola_355Z2.lc96p	Abs Quant		E8	eprs_gene	met2	33.74		Positive	Unchecked	Positive control		32.9133333333333	0.71765822877839			D8	SYBR Green I	Unchecked	0.6923	2.948108	None			56
+fasciola_355Z2.lc96p	Abs Quant		E9	eprs_gene	met3	32.29		Positive	Unchecked	Positive control		32.3733333333333	0.0802080627701083			D9	SYBR Green I	Unchecked	0.9671	3.685698	None			57
+fasciola_355Z2.lc96p	Abs Quant		E10	eprs_gene	ad1	24.98		Positive	Unchecked	Positive control		25.01	0.0435889894354067			D10	SYBR Green I	Unchecked	0.9145	3.748223	None			58
+fasciola_355Z2.lc96p	Abs Quant		E11	eprs_gene	ad2	25.02		Positive	Unchecked	Positive control		25.04	0.0721110255092807			D11	SYBR Green I	Unchecked	1.0175	3.972582	None			59
+fasciola_355Z2.lc96p	Abs Quant		E12	eprs_gene	ad3	25.54		Positive	Unchecked	Positive control		25.4966666666667	0.111504857891185			D12	SYBR Green I	Unchecked	0.8656	3.618428	None			60
+fasciola_355Z2.lc96p	Abs Quant		F1	eprs_gene	1juv	26.09		Positive	Unchecked	Positive control		26.05	0.0360555127546389			D1	SYBR Green I	Unchecked	0.7579	3.36616	None			61
+fasciola_355Z2.lc96p	Abs Quant		F2	eprs_gene	2juv	25.74		Positive	Unchecked	Positive control		25.6833333333333	0.0981495457622356			D2	SYBR Green I	Unchecked	0.9425	3.807734	None			62
+fasciola_355Z2.lc96p	Abs Quant		F3	eprs_gene	3juv	26.91		Positive	Unchecked	Positive control		26.35	0.485386443980463			D3	SYBR Green I	Unchecked	0.7695	3.352647	None			63
+fasciola_355Z2.lc96p	Abs Quant		F4	eprs_gene	egg1	29.19		Positive	Unchecked	Positive control		29.2266666666667	0.237135685491098			D4	SYBR Green I	Unchecked	1.1574	4.201878	None			64
+fasciola_355Z2.lc96p	Abs Quant		F5	eprs_gene	egg2	29.93		Positive	Unchecked	Positive control		29.5833333333333	0.378197479279455			D5	SYBR Green I	Unchecked	0.976	3.784347	None			65
+fasciola_355Z2.lc96p	Abs Quant		F6	eprs_gene	egg3	31.6		Positive	Unchecked	Positive control		31.44	0.285832118559129			D6	SYBR Green I	Unchecked	1.0682	3.960569	None			66
+fasciola_355Z2.lc96p	Abs Quant		F7	eprs_gene	met1	33.48		Positive	Unchecked	Positive control		33.6033333333333	0.604510821518798			D7	SYBR Green I	Unchecked	0.894	3.37987	None			67
+fasciola_355Z2.lc96p	Abs Quant		F8	eprs_gene	met2	32.45		Positive	Unchecked	Positive control		32.9133333333333	0.71765822877839			D8	SYBR Green I	Unchecked	1.0053	3.784143	None			68
+fasciola_355Z2.lc96p	Abs Quant		F9	eprs_gene	met3	32.45		Positive	Unchecked	Positive control		32.3733333333333	0.0802080627701083			D9	SYBR Green I	Unchecked	0.9878	3.747627	None			69
+fasciola_355Z2.lc96p	Abs Quant		F10	eprs_gene	ad1	25.06		Positive	Unchecked	Positive control		25.01	0.0435889894354067			D10	SYBR Green I	Unchecked	0.9038	3.694196	None			70
+fasciola_355Z2.lc96p	Abs Quant		F11	eprs_gene	ad2	25.12		Positive	Unchecked	Positive control		25.04	0.0721110255092807			D11	SYBR Green I	Unchecked	0.9512	3.82795	None			71
+fasciola_355Z2.lc96p	Abs Quant		F12	eprs_gene	ad3	25.58		Positive	Unchecked	Positive control		25.4966666666667	0.111504857891185			D12	SYBR Green I	Unchecked	0.9446	3.787232	None			72
+fasciola_355Z2.lc96p	Abs Quant		G1	eprs_gene	DNA	24.93		Positive	Unchecked	Positive control		25.135	0.180781133367998			G1	SYBR Green I	Unchecked	0.9399	3.823519	None			73
+fasciola_355Z2.lc96p	Abs Quant		G2	eprs_gene	DNA	24.96		Positive	Unchecked	Positive control		25.135	0.180781133367998			G1	SYBR Green I	Unchecked	0.9272	3.7837	None			74
+fasciola_355Z2.lc96p	Abs Quant		G3	eprs_gene	DNA	25.48		Positive	Unchecked	Positive control		25.135	0.180781133367998			G1	SYBR Green I	Unchecked	0.7978	3.455625	None			75
+fasciola_355Z2.lc96p	Abs Quant		G4	eprs_gene	DNA	24.87		Positive	Unchecked	Positive control		25.135	0.180781133367998			G1	SYBR Green I	Unchecked	1.1353	4.262022	None			76
+fasciola_355Z2.lc96p	Abs Quant		G5	eprs_gene	DNA	25.18		Positive	Unchecked	Positive control		25.135	0.180781133367998			G1	SYBR Green I	Unchecked	0.915	3.76253	None			77
+fasciola_355Z2.lc96p	Abs Quant		G6	eprs_gene	DNA	25.26		Positive	Unchecked	Positive control		25.135	0.180781133367998			G1	SYBR Green I	Unchecked	1.0055	3.945796	None			78
+fasciola_355Z2.lc96p	Abs Quant		G7	eprs_gene	DNA	25.13		Positive	Unchecked	Positive control		25.135	0.180781133367998			G1	SYBR Green I	Unchecked	0.9109	3.686184	None			79
+fasciola_355Z2.lc96p	Abs Quant		G8	eprs_gene	DNA	25.11		Positive	Unchecked	Positive control		25.135	0.180781133367998			G1	SYBR Green I	Unchecked	0.9884	3.875119	None			80
+fasciola_355Z2.lc96p	Abs Quant		G9	eprs_gene	DNA	25.01		Positive	Unchecked	Positive control		25.135	0.180781133367998			G1	SYBR Green I	Unchecked	1.011	3.977495	None			81
+fasciola_355Z2.lc96p	Abs Quant		G10	eprs_gene	DNA	25.22		Positive	Unchecked	Positive control		25.135	0.180781133367998			G1	SYBR Green I	Unchecked	0.9909	3.914238	None			82
+fasciola_355Z2.lc96p	Abs Quant		G11	eprs_gene	DNA	25.1		Positive	Unchecked	Positive control		25.135	0.180781133367998			G1	SYBR Green I	Unchecked	0.9608	3.832489	None			83
+fasciola_355Z2.lc96p	Abs Quant		G12	eprs_gene	DNA	25.37		Positive	Unchecked	Positive control		25.135	0.180781133367998			G1	SYBR Green I	Unchecked	0.7783	3.358785	None			84
+fasciola_355Z2.lc96p	Abs Quant		H1	760G1	None			Negative	Unchecked	Negative control						H1	SYBR Green I	Unchecked	0	-0.02614411	None			85
+fasciola_355Z2.lc96p	Abs Quant		H2	760G1	None			Negative	Unchecked	Negative control						H1	SYBR Green I	Unchecked	0.0041	0.03111783	None			86
+fasciola_355Z2.lc96p	Abs Quant		H3	760G1	None			Negative	Unchecked	Negative control						H1	SYBR Green I	Unchecked	0.0054	0.03320342	None			87
+fasciola_355Z2.lc96p	Abs Quant		H4	355Z1	None			Negative	Unchecked	Negative control						H4	SYBR Green I	Unchecked	0.0108	0.3931882	None			88
+fasciola_355Z2.lc96p	Abs Quant		H5	355Z1	None			Negative	Unchecked	Negative control						H4	SYBR Green I	Unchecked	0.0078	0.04584099	None			89
+fasciola_355Z2.lc96p	Abs Quant		H6	355Z1	None			Negative	Unchecked	Negative control						H4	SYBR Green I	Unchecked	0.0095	0.05915128	None			90
+fasciola_355Z2.lc96p	Abs Quant		H7	297U1	None			Negative	Unchecked	Negative control						H7	SYBR Green I	Unchecked	0.0267	0.3217861	None			91
+fasciola_355Z2.lc96p	Abs Quant		H8	297U1	None			Negative	Unchecked	Negative control						H7	SYBR Green I	Unchecked	0.0123	0.1693173	None			92
+fasciola_355Z2.lc96p	Abs Quant		H9	297U1	None			Negative	Unchecked	Negative control						H7	SYBR Green I	Unchecked	0.012	0.126567	None			93
+fasciola_355Z2.lc96p	Abs Quant		H10	eprs_gene	None			Negative	Unchecked	Negative control						H10	SYBR Green I	Unchecked	0.0092	0.08752975	None			94
+fasciola_355Z2.lc96p	Abs Quant		H11	eprs_gene	None			Negative	Unchecked	Negative control						H10	SYBR Green I	Unchecked	0.0121	0.09237193	None			95
+fasciola_355Z2.lc96p	Abs Quant		H12	eprs_gene	None			Negative	Unchecked	Negative control						H10	SYBR Green I	Unchecked	0.2257	0.3659472	None			96

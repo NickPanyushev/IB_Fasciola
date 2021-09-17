@@ -1,0 +1,221 @@
+---
+title: "qPCR_processing"
+author: "Nick_Panyushev"
+date: "4/8/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(data.table)
+library(ggplot2)
+setwd("~/Desktop/qPCR_fasciola/")
+```
+
+```{r qPCR4 readout and filtering}
+qPCR4 <- fread("fasciola297U1_#4.txt")
+qPCR4$Cq <- as.numeric(qPCR4$Cq)
+qPCR4 <- qPCR4[Call == "Positive"]
+qPCR4 <- qPCR4[, .(`Sample Name`, `Sample Type`, `Gene Name`, Cq)]
+names(qPCR4) <- c("Gene", "Type", "Sample",  "Cq")
+qPCR4 <- merge(qPCR4[Gene == "eprs_gene", mean(Cq, na.rm = T), by=Sample], qPCR4, all.y = T)
+setnames(qPCR4, old = "V1", "ref_Cq")
+qPCR4[, tech_mean := mean(Cq), by = .(Gene, Type, Sample)]
+qPCR4[, tech_sd := sd(Cq), by = .(Gene, Type, Sample)]
+qPCR4$tech_sd <- round(qPCR4$tech_sd, digits = 2)
+qPCR4 <- qPCR4[Sample != "3juv"] # outlier removal
+#unique(qPCR4$Gene)
+#unique(qPCR4$Sample)
+```
+
+```{r qPCR5 readout and filtering}
+qPCR5 <- fread("fasciola_355Z2_res.txt")
+qPCR5$Cq <- as.numeric(qPCR5$Cq)
+qPCR5 <- qPCR5[Call == "Positive"]
+qPCR5 <- qPCR5[, .(`Sample Name`, `Sample Type`, `Gene Name`, Cq)]
+names(qPCR5) <- c("Gene", "Type", "Sample",  "Cq")
+qPCR5 <- merge(qPCR5[Gene == "eprs_gene", mean(Cq, na.rm = T), by=Sample], qPCR5, all.y = T)
+setnames(qPCR5, old = "V1", "ref_Cq")
+#Tech outlier removal
+qPCR5 <- qPCR5[Cq != 34.26] 
+qPCR5[, tech_mean := mean(Cq), by = .(Gene, Type, Sample)]
+qPCR5[, tech_sd := sd(Cq), by = .(Gene, Type, Sample)]
+qPCR5$tech_sd <- round(qPCR5$tech_sd, digits = 2)
+```
+
+```{r qPCR6 readout and filtering}
+qPCR6 <- fread("fasciola_136g1_res.txt")
+qPCR6$Cq <- as.numeric(qPCR6$Cq)
+qPCR6 <- qPCR6[Call == "Positive"]
+qPCR6 <- qPCR6[, .(`Sample Name`, `Sample Type`, `Gene Name`, Cq)]
+names(qPCR6) <- c("Gene", "Type", "Sample",  "Cq")
+qPCR6 <- merge(qPCR6[Gene == "eprs_gene", mean(Cq, na.rm = T), by=Sample], qPCR6, all.y = T)
+setnames(qPCR6, old = "V1", "ref_Cq")
+qPCR6[, tech_mean := mean(Cq), by = .(Gene, Type, Sample)]
+qPCR6[, tech_sd := sd(Cq), by = .(Gene, Type, Sample)]
+qPCR6$tech_sd <- round(qPCR6$tech_sd, digits = 2)
+
+#Outlier filtering
+qPCR6 <- qPCR6[Cq != 33.54]
+qPCR6 <- qPCR6[Cq != 33.89]
+
+unique(qPCR6$Gene)
+```
+
+```{r qPCR7 readout and filtering}
+qPCR7 <- fread("fasciola_1109_u1.txt")
+qPCR7$Cq <- as.numeric(qPCR7$Cq)
+qPCR7 <- qPCR7[Call == "Positive"]
+qPCR7 <- qPCR7[, .(`Sample Name`, `Sample Type`, `Gene Name`, Cq)]
+names(qPCR7) <- c("Gene", "Type", "Sample",  "Cq")
+qPCR7 <- merge(qPCR7[Gene == "eprs_gene", mean(Cq, na.rm = T), by=Sample], qPCR7, all.y = T)
+setnames(qPCR7, old = "V1", "ref_Cq")
+qPCR7[, tech_mean := mean(Cq), by = .(Gene, Type, Sample)]
+qPCR7[, tech_sd := sd(Cq), by = .(Gene, Type, Sample)]
+qPCR7$tech_sd <- round(qPCR7$tech_sd, digits = 2)
+#Outlier filtering
+qPCR7 <- qPCR7[Cq != 31.84]
+qPCR7[, tech_mean := mean(Cq), by = .(Gene, Type, Sample)]
+qPCR7[, tech_sd := sd(Cq), by = .(Gene, Type, Sample)]
+qPCR7$tech_sd <- round(qPCR7$tech_sd, digits = 2)
+qPCR7[Gene == "297U1", Gene := "1109u1"] # Correcting the error in the original file
+qPCR7[Gene == "760G1", Gene := "1109u1"] # Correcting the error in the original file
+#unique(qPCR7$Gene)
+```
+
+```{r qPCR8 readout and filtering}
+qPCR8 <- fread("823g4_res.txt")
+qPCR8$Cq <- as.numeric(qPCR8$Cq)
+qPCR8 <- qPCR8[Call == "Positive"]
+qPCR8 <- qPCR8[, .(`Sample Name`, `Sample Type`, `Gene Name`, Cq)]
+names(qPCR8) <- c("Gene", "Type", "Sample",  "Cq")
+qPCR8 <- merge(qPCR8[Gene == "eprs_gene", mean(Cq, na.rm = T), by=Sample], qPCR8, all.y = T)
+setnames(qPCR8, old = "V1", "ref_Cq")
+qPCR8[, tech_mean := mean(Cq), by = .(Gene, Type, Sample)]
+qPCR8[, tech_sd := sd(Cq), by = .(Gene, Type, Sample)]
+qPCR8$tech_sd <- round(qPCR8$tech_sd, digits = 2)
+qPCR8[, tech_mean := mean(Cq), by = .(Gene, Type, Sample)]
+qPCR8[, tech_sd := sd(Cq), by = .(Gene, Type, Sample)]
+qPCR8$tech_sd <- round(qPCR8$tech_sd, digits = 2)
+```
+
+```{r qPCR9 readout and filtering}
+qPCR9 <- fread("760g1_catepsin.txt")
+qPCR9$Cq <- as.numeric(qPCR9$Cq)
+qPCR9 <- qPCR9[Call == "Positive"]
+qPCR9 <- qPCR9[, .(`Sample Name`, `Sample Type`, `Gene Name`, Cq)]
+names(qPCR9) <- c("Gene", "Type", "Sample",  "Cq")
+qPCR9 <- merge(qPCR9[Gene == "eprs_gene", mean(Cq, na.rm = T), by=Sample], qPCR9, all.y = T)
+setnames(qPCR9, old = "V1", "ref_Cq")
+qPCR9[, tech_mean := mean(Cq), by = .(Gene, Type, Sample)]
+qPCR9[, tech_sd := sd(Cq), by = .(Gene, Type, Sample)]
+qPCR9$tech_sd <- round(qPCR9$tech_sd, digits = 2)
+qPCR9[, tech_mean := mean(Cq), by = .(Gene, Type, Sample)]
+qPCR9[, tech_sd := sd(Cq), by = .(Gene, Type, Sample)]
+qPCR9$tech_sd <- round(qPCR9$tech_sd, digits = 2)
+qPCR9 <- qPCR9[Gene != "cat1"]
+```
+
+```{r qPCR10 readout and filtering}
+qPCR10 <- fread("823_catepsin.txt")
+qPCR10$Cq <- as.numeric(qPCR10$Cq)
+qPCR10 <- qPCR10[Call == "Positive"]
+qPCR10 <- qPCR10[, .(`Sample Name`, `Sample Type`, `Gene Name`, Cq)]
+names(qPCR10) <- c("Gene", "Type", "Sample",  "Cq")
+qPCR10 <- merge(qPCR10[Gene == "eprs_gene", mean(Cq, na.rm = T), by=Sample], qPCR10, all.y = T)
+setnames(qPCR10, old = "V1", "ref_Cq")
+qPCR10[, tech_mean := mean(Cq), by = .(Gene, Type, Sample)]
+qPCR10[, tech_sd := sd(Cq), by = .(Gene, Type, Sample)]
+qPCR10$tech_sd <- round(qPCR10$tech_sd, digits = 2)
+qPCR10[, tech_mean := mean(Cq), by = .(Gene, Type, Sample)]
+qPCR10[, tech_sd := sd(Cq), by = .(Gene, Type, Sample)]
+qPCR10$tech_sd <- round(qPCR10$tech_sd, digits = 2)
+qPCR10 <- qPCR10[Gene != "cat1"]
+qPCR10[Gene == "823п4", Gene := "823G4"] # Correcting the error in the original file
+```
+
+```{r concatenating}
+all_assays <- rbindlist(list(qPCR4, qPCR5, qPCR6, qPCR7, qPCR8, qPCR9), idcol = TRUE)
+```
+
+```{r deltaCt_calculation}
+rel_quant <- all_assays[, delta := (tech_mean - ref_Cq)]
+rel_quant$Cq <- NULL
+rel_quant <- rel_quant[Gene != "eprs_gene"]
+rel_quant <- rel_quant[Type != "Negative control"]
+rel_quant$Type <- NULL
+rel_quant <- unique(rel_quant)
+```
+
+```{r quantity_calculation}
+#The EGG sample is used as the control reference
+avg_control <- rel_quant[Sample %in% c("egg1", "egg2", "egg3"), mean(delta, na.rm = T), by = ".id"]
+rel_quant <- merge(avg_control, rel_quant, all.y = T)
+setnames(rel_quant, "V1", "avg_control")
+rel_quant$deltadelta <- rel_quant[, delta - avg_control]
+rel_quant$quantity <- 2^-(rel_quant$deltadelta)
+#se <- function(x) sqrt(var(x)/length(x))
+rel_quant$Sample_group <- sub("\\d", "", rel_quant$Sample)
+rel_quant$Sample_group <- factor(rel_quant$Sample_group, levels = c("egg", "juv", "met", "ad"))
+#rel_quant[, CI := se(quantity), by = .(Sample_group, Gene)] 
+rel_quant[, Mean_quantity := mean(quantity, na.rm = T), by = .(Sample_group, Gene)]
+#unique(rel_quant$Sample_group)
+```
+
+```{r relative_quantity plot}
+rel_quant_plot <- ggplot(rel_quant, aes(x=Gene, y=quantity, fill=Sample_group)) +
+  geom_boxplot() +
+  geom_point(shape = 21, alpha = 0.5, position=position_jitterdodge()) +
+  theme_bw() + 
+    theme(axis.title.x=element_blank(),
+          axis.text.x=element_blank(),
+        axis.ticks.x=element_blank())+
+  scale_y_continuous(name = "Relative quantity")+
+  facet_wrap(ncol = 3, scales = "free_x", facets = vars(Gene))
+  #facet_grid(cols = vars(Gene), scales = "free")
+rel_quant_plot
+#ggsave("relative_all.png", rel_quant_plot, dpi = 300)
+```
+
+```{r absolute_quantification}
+abs_quant <- all_assays[Sample %in% c("egg1", "egg2", "egg3")]
+abs_quant <- abs_quant[Gene == "eprs_gene"]
+abs_quant <- abs_quant[, .(.id, Sample, Cq)]
+abs_quant <- unique(abs_quant)
+
+avg_control <- all_assays[Sample == "DNA", .(.id, tech_mean)]
+avg_control <- unique(avg_control)
+setnames(avg_control, "tech_mean", "ref_Cq")
+
+abs_quant <- merge(abs_quant, avg_control, all.y = T)
+
+absolute_quantity <- 10 # This value should be changed due to experimental conditions
+
+abs_quant[, nanograms := (absolute_quantity/2^(Cq - ref_Cq))]
+
+abs_quant <- merge(rel_quant, abs_quant[, .(.id, Sample, nanograms)], by = c(".id", "Sample"), all.x = T)
+abs_quant[, mean_nanograms := mean(nanograms), by = Sample]
+abs_quant <- abs_quant[, .(.id, Sample, Sample_group, Gene, quantity, mean_nanograms)]
+abs_quant <- unique(abs_quant)
+abs_quant[, coef := mean(mean_nanograms) / mean(quantity), by = .(.id, Sample_group)]
+abs_quant[, coef := mean(coef, na.rm = T), by = .id] # stretching this coefficient to other groups in this study
+abs_quant[is.na(mean_nanograms), mean_nanograms := coef * quantity]
+abs_quant$mean_nanograms <- abs_quant$mean_nanograms * 1000
+abs_quant$mean_nanograms <- round(abs_quant$mean_nanograms, digits = 0)
+```
+
+```{r absolute_quantity plot}
+abs_quant_plot <- ggplot(abs_quant, aes(x=Gene, y=mean_nanograms, fill=Sample_group)) +
+  geom_boxplot() +
+  geom_point(shape = 21, alpha = 0.5, position=position_jitterdodge()) +
+  theme_bw() + 
+    theme(axis.title.x=element_blank(),
+          axis.text.x=element_blank(),
+        axis.ticks.x=element_blank())+
+  scale_y_continuous(name = "Picograms")+
+  facet_wrap(ncol = 3, scales = "free_x", facets = vars(Gene))
+abs_quant_plot
+ggsave("absolute_all.png", abs_quant_plot, dpi = 300)
+```
+
+
+

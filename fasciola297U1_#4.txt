@@ -1,0 +1,97 @@
+File Name	Analysis Name	Plate Id	Position	Sample Name	Gene Name	Cq	Concentration	Call	Excluded	Sample Type	Standard	Cq Mean	Cq Error	Concentration Mean	Concentration Error	Replicate Group	Dye	Edited Call	Slope	EPF	Failure	Notes	Sample Prep Notes	Number
+fasciola_297U1.lc96p	Abs Quant		A1	297U1	1juv	34.2		Positive	Unchecked	Unknown		33.92	0.442379927211895			A1	SYBR Green I	Unchecked	1.1449	4.1032903205571	None			1
+fasciola_297U1.lc96p	Abs Quant		A2	297U1	2juv	34.1		Positive	Unchecked	Unknown		33.5733333333333	0.483356321292413			A2	SYBR Green I	Unchecked	1.2354	4.1625140358061	None			2
+fasciola_297U1.lc96p	Abs Quant		A3	297U1	3juv	32.99		Positive	Unchecked	Unknown		33.2933333333333	0.266520793435208			A3	SYBR Green I	Unchecked	1.091	3.77194216807454	None			3
+fasciola_297U1.lc96p	Abs Quant		A4	297U1	egg1	38.54		Positive	Unchecked	Unknown		39.2366666666667	1.65862392763801			A4	SYBR Green I	Unchecked	0.7564	2.7208583732173	None			4
+fasciola_297U1.lc96p	Abs Quant		A5	297U1	egg2	36.76		Positive	Unchecked	Unknown		37.27	0.781728853247723			A5	SYBR Green I	Unchecked	1.2014	3.83874642631191	None			5
+fasciola_297U1.lc96p	Abs Quant		A6	297U1	egg3			Negative	Unchecked	Unknown						A6	SYBR Green I	Unchecked	0.0864	0.534759950092898	None			6
+fasciola_297U1.lc96p	Abs Quant		A7	297U1	met1	40.55		Positive	Unchecked	Unknown		39.35	1.69705627484771			A7	SYBR Green I	Unchecked	1.2268	2.07375772238954	Replicate group contains positives and negatives.			7
+fasciola_297U1.lc96p	Abs Quant		A8	297U1	met2	41.25		Positive	Unchecked	Unknown		40.485	1.08187337521542			A8	SYBR Green I	Unchecked	1.188	1.70046508539832	Replicate group contains positives and negatives.			8
+fasciola_297U1.lc96p	Abs Quant		A9	297U1	met3	39.84		Positive	Unchecked	Unknown		40.8433333333333	1.16431668086193			A9	SYBR Green I	Unchecked	1.2453	2.7543393878292	None			9
+fasciola_297U1.lc96p	Abs Quant		A10	297U1	ad1	31.27		Positive	Unchecked	Unknown		31.3433333333333	0.0808290376865471			A10	SYBR Green I	Unchecked	1.2985	4.45438790501333	None			10
+fasciola_297U1.lc96p	Abs Quant		A11	297U1	ad2	31.02		Positive	Unchecked	Unknown		31.1366666666667	0.13868429375143			A11	SYBR Green I	Unchecked	1.5443	4.71903543010635	None			11
+fasciola_297U1.lc96p	Abs Quant		A12	297U1	ad3	32.77		Positive	Unchecked	Unknown		32.9133333333333	0.156311654502577			A12	SYBR Green I	Unchecked	1.5026	4.64241974455347	None			12
+fasciola_297U1.lc96p	Abs Quant		B1	297U1	1juv	33.41		Positive	Unchecked	Unknown		33.92	0.442379927211895			A1	SYBR Green I	Unchecked	1.3195	4.30190705764034	None			13
+fasciola_297U1.lc96p	Abs Quant		B2	297U1	2juv	33.15		Positive	Unchecked	Unknown		33.5733333333333	0.483356321292413			A2	SYBR Green I	Unchecked	1.2908	4.18398486430495	None			14
+fasciola_297U1.lc96p	Abs Quant		B3	297U1	3juv	33.49		Positive	Unchecked	Unknown		33.2933333333333	0.266520793435208			A3	SYBR Green I	Unchecked	1.5488	4.64974225759058	None			15
+fasciola_297U1.lc96p	Abs Quant		B4	297U1	egg1	38.04		Positive	Unchecked	Unknown		39.2366666666667	1.65862392763801			A4	SYBR Green I	Unchecked	1.2586	3.71610890427807	None			16
+fasciola_297U1.lc96p	Abs Quant		B5	297U1	egg2	36.88		Positive	Unchecked	Unknown		37.27	0.781728853247723			A5	SYBR Green I	Unchecked	1.6527	4.45349581523738	None			17
+fasciola_297U1.lc96p	Abs Quant		B6	297U1	egg3			Negative	Unchecked	Unknown						A6	SYBR Green I	Unchecked	0.0207	0.25619256253851	None			18
+fasciola_297U1.lc96p	Abs Quant		B7	297U1	met1			Negative	Unchecked	Unknown						A7	SYBR Green I	Unchecked	0.0252	0.706386193345036	Replicate group contains positives and negatives.			19
+fasciola_297U1.lc96p	Abs Quant		B8	297U1	met2			Negative	Unchecked	Unknown						A8	SYBR Green I	Unchecked	0.7659	1.03233474995333	Replicate group contains positives and negatives.			20
+fasciola_297U1.lc96p	Abs Quant		B9	297U1	met3	40.57		Positive	Unchecked	Unknown		40.8433333333333	1.16431668086193			A9	SYBR Green I	Unchecked	1.4177	1.88860237326445	None			21
+fasciola_297U1.lc96p	Abs Quant		B10	297U1	ad1	31.43		Positive	Unchecked	Unknown		31.3433333333333	0.0808290376865471			A10	SYBR Green I	Unchecked	1.6234	4.81116634507052	None			22
+fasciola_297U1.lc96p	Abs Quant		B11	297U1	ad2	31.29		Positive	Unchecked	Unknown		31.1366666666667	0.13868429375143			A11	SYBR Green I	Unchecked	1.8131	5.06151687522211	None			23
+fasciola_297U1.lc96p	Abs Quant		B12	297U1	ad3	32.89		Positive	Unchecked	Unknown		32.9133333333333	0.156311654502577			A12	SYBR Green I	Unchecked	1.8418	5.24758361355343	None			24
+fasciola_297U1.lc96p	Abs Quant		C1	297U1	1juv	34.15		Positive	Unchecked	Unknown		33.92	0.442379927211895			A1	SYBR Green I	Unchecked	1.2578	4.02648707105422	None			25
+fasciola_297U1.lc96p	Abs Quant		C2	297U1	2juv	33.47		Positive	Unchecked	Unknown		33.5733333333333	0.483356321292413			A2	SYBR Green I	Unchecked	1.5662	4.58541630305808	None			26
+fasciola_297U1.lc96p	Abs Quant		C3	297U1	3juv	33.4		Positive	Unchecked	Unknown		33.2933333333333	0.266520793435208			A3	SYBR Green I	Unchecked	1.6211	4.84880066685293	None			27
+fasciola_297U1.lc96p	Abs Quant		C4	297U1	egg1	41.13		Positive	Unchecked	Unknown		39.2366666666667	1.65862392763801			A4	SYBR Green I	Unchecked	1.6309	1.82863973993917	None			28
+fasciola_297U1.lc96p	Abs Quant		C5	297U1	egg2	38.17		Positive	Unchecked	Unknown		37.27	0.781728853247723			A5	SYBR Green I	Unchecked	1.2046	3.24208680971466	None			29
+fasciola_297U1.lc96p	Abs Quant		C6	297U1	egg3			Negative	Unchecked	Unknown						A6	SYBR Green I	Unchecked	0.5113	0.756870601075342	None			30
+fasciola_297U1.lc96p	Abs Quant		C7	297U1	met1	38.15		Positive	Unchecked	Unknown		39.35	1.69705627484771			A7	SYBR Green I	Unchecked	1.1566	3.59422947577069	Replicate group contains positives and negatives.			31
+fasciola_297U1.lc96p	Abs Quant		C8	297U1	met2	39.72		Positive	Unchecked	Unknown		40.485	1.08187337521542			A8	SYBR Green I	Unchecked	1.1218	2.03920933911826	Replicate group contains positives and negatives.			32
+fasciola_297U1.lc96p	Abs Quant		C9	297U1	met3	42.12		Positive	Unchecked	Unknown		40.8433333333333	1.16431668086193			A9	SYBR Green I	Unchecked	0.8643	1.22141297729454	None			33
+fasciola_297U1.lc96p	Abs Quant		C10	297U1	ad1	31.33		Positive	Unchecked	Unknown		31.3433333333333	0.0808290376865471			A10	SYBR Green I	Unchecked	1.6057	4.85218935392385	None			34
+fasciola_297U1.lc96p	Abs Quant		C11	297U1	ad2	31.1		Positive	Unchecked	Unknown		31.1366666666667	0.13868429375143			A11	SYBR Green I	Unchecked	1.882	5.1140913642414	None			35
+fasciola_297U1.lc96p	Abs Quant		C12	297U1	ad3	33.08		Positive	Unchecked	Unknown		32.9133333333333	0.156311654502577			A12	SYBR Green I	Unchecked	1.5405	4.88851826701747	None			36
+fasciola_297U1.lc96p	Abs Quant		D1	eprs_gene	1juv	25.91		Positive	Unchecked	Positive control		26.175	0.374766594028871			D1	SYBR Green I	Unchecked	1.3357	4.51403369603513	Replicate group contains positives and negatives.			37
+fasciola_297U1.lc96p	Abs Quant		D2	eprs_gene	2juv	25.44		Positive	Unchecked	Positive control		25.6766666666667	0.2259055849981			D2	SYBR Green I	Unchecked	1.3691	4.66896142012594	None			38
+fasciola_297U1.lc96p	Abs Quant		D3	eprs_gene	3juv	25.64		Positive	Unchecked	Positive control		29.9566666666667	4.54461732895815			D3	SYBR Green I	Unchecked	1.391	4.76096551880789	None			39
+fasciola_297U1.lc96p	Abs Quant		D4	eprs_gene	egg1	30.69		Positive	Unchecked	Positive control		30.5633333333333	0.273007936392577			D4	SYBR Green I	Unchecked	1.5455	4.86763454708075	None			40
+fasciola_297U1.lc96p	Abs Quant		D5	eprs_gene	egg2	29.73		Positive	Unchecked	Positive control		30.0633333333333	0.297040962382857			D5	SYBR Green I	Unchecked	1.633	4.9300579450936	None			41
+fasciola_297U1.lc96p	Abs Quant		D6	eprs_gene	3juv	32.56		Positive	Unchecked	Positive control		29.9566666666667	4.54461732895815			D3	SYBR Green I	Unchecked	1.5833	4.7812016952956	None			42
+fasciola_297U1.lc96p	Abs Quant		D7	eprs_gene	met1	35.36		Positive	Unchecked	Positive control		34.5233333333333	0.725005747103658			D7	SYBR Green I	Unchecked	1.5503	4.60909588479871	None			43
+fasciola_297U1.lc96p	Abs Quant		D8	eprs_gene	met2	34.73		Positive	Unchecked	Positive control		34.73	0			D8	SYBR Green I	Unchecked	1.3049	4.68928048846099	Replicate group contains positives and negatives.			44
+fasciola_297U1.lc96p	Abs Quant		D9	eprs_gene	met3	33.46		Positive	Unchecked	Positive control		33.4333333333333	0.261023626006025			D9	SYBR Green I	Unchecked	1.4081	4.51543834133529	None			45
+fasciola_297U1.lc96p	Abs Quant		D10	eprs_gene	ad1	24.43		Positive	Unchecked	Positive control		24.59	0.227156333832012			D10	SYBR Green I	Unchecked	1.8366	5.25060110378001	None			46
+fasciola_297U1.lc96p	Abs Quant		D11	eprs_gene	ad2	24.31		Positive	Unchecked	Positive control		24.44	0.141067359796658			D11	SYBR Green I	Unchecked	1.6881	5.19165815699312	None			47
+fasciola_297U1.lc96p	Abs Quant		D12	eprs_gene	ad3	25.75		Positive	Unchecked	Positive control		26.0166666666667	0.247857485933618			D12	SYBR Green I	Unchecked	1.6848	5.14851501525089	None			48
+fasciola_297U1.lc96p	Abs Quant		E1	eprs_gene	1juv			Negative	Unchecked	Positive control						D1	SYBR Green I	Unchecked	0.0012	0.0352358970043883	Pos Ctrl is negative, Replicate group contains positives and negatives.			49
+fasciola_297U1.lc96p	Abs Quant		E2	eprs_gene	2juv	25.89		Positive	Unchecked	Positive control		25.6766666666667	0.2259055849981			D2	SYBR Green I	Unchecked	1.3367	4.57162272884997	None			50
+fasciola_297U1.lc96p	Abs Quant		E3	eprs_gene	3juv	25.68		Positive	Unchecked	Positive control		29.9566666666667	4.54461732895815			D3	SYBR Green I	Unchecked	1.4941	4.9246972450189	None			51
+fasciola_297U1.lc96p	Abs Quant		E4	eprs_gene	egg1	30.25		Positive	Unchecked	Positive control		30.5633333333333	0.273007936392577			D4	SYBR Green I	Unchecked	1.6113	4.90215489291561	None			52
+fasciola_297U1.lc96p	Abs Quant		E5	eprs_gene	egg2	30.16		Positive	Unchecked	Positive control		30.0633333333333	0.297040962382857			D5	SYBR Green I	Unchecked	1.4275	4.62341571828965	None			53
+fasciola_297U1.lc96p	Abs Quant		E6	eprs_gene	3juv	35.06		Positive	Unchecked	Positive control		29.9566666666667	4.54461732895815			D3	SYBR Green I	Unchecked	1.5664	4.74003943969061	None			54
+fasciola_297U1.lc96p	Abs Quant		E7	eprs_gene	met1	34.08		Positive	Unchecked	Positive control		34.5233333333333	0.725005747103658			D7	SYBR Green I	Unchecked	1.5885	4.82165244124925	None			55
+fasciola_297U1.lc96p	Abs Quant		E8	eprs_gene	met2			Negative	Unchecked	Positive control						D8	SYBR Green I	Unchecked	0.0087	0.318511336851359	Pos Ctrl is negative, Replicate group contains positives and negatives.			56
+fasciola_297U1.lc96p	Abs Quant		E9	eprs_gene	met3	33.16		Positive	Unchecked	Positive control		33.4333333333333	0.261023626006025			D9	SYBR Green I	Unchecked	1.4627	4.65697344209632	None			57
+fasciola_297U1.lc96p	Abs Quant		E10	eprs_gene	ad1	24.49		Positive	Unchecked	Positive control		24.59	0.227156333832012			D10	SYBR Green I	Unchecked	1.6295	5.17004801958261	None			58
+fasciola_297U1.lc96p	Abs Quant		E11	eprs_gene	ad2	24.42		Positive	Unchecked	Positive control		24.44	0.141067359796658			D11	SYBR Green I	Unchecked	1.7289	5.21610468048289	None			59
+fasciola_297U1.lc96p	Abs Quant		E12	eprs_gene	ad3	26.24		Positive	Unchecked	Positive control		26.0166666666667	0.247857485933618			D12	SYBR Green I	Unchecked	0.8362	3.47225531677319	None			60
+fasciola_297U1.lc96p	Abs Quant		F1	eprs_gene	1juv	26.44		Positive	Unchecked	Positive control		26.175	0.374766594028871			D1	SYBR Green I	Unchecked	1.336	4.60355658730604	Replicate group contains positives and negatives.			61
+fasciola_297U1.lc96p	Abs Quant		F2	eprs_gene	2juv	25.7		Positive	Unchecked	Positive control		25.6766666666667	0.2259055849981			D2	SYBR Green I	Unchecked	1.5692	5.07667650411312	None			62
+fasciola_297U1.lc96p	Abs Quant		F3	eprs_gene	3juv	26.33		Positive	Unchecked	Positive control		29.9566666666667	4.54461732895815			D3	SYBR Green I	Unchecked	1.6868	5.18162910655962	None			63
+fasciola_297U1.lc96p	Abs Quant		F4	eprs_gene	egg1	30.75		Positive	Unchecked	Positive control		30.5633333333333	0.273007936392577			D4	SYBR Green I	Unchecked	1.5987	4.84295449444631	None			64
+fasciola_297U1.lc96p	Abs Quant		F5	eprs_gene	egg2	30.3		Positive	Unchecked	Positive control		30.0633333333333	0.297040962382857			D5	SYBR Green I	Unchecked	1.309	4.4736762306519	None			65
+fasciola_297U1.lc96p	Abs Quant		F6	eprs_gene	3juv	34.47		Positive	Unchecked	Positive control		29.9566666666667	4.54461732895815			D3	SYBR Green I	Unchecked	1.252	4.18848967330507	None			66
+fasciola_297U1.lc96p	Abs Quant		F7	eprs_gene	met1	34.13		Positive	Unchecked	Positive control		34.5233333333333	0.725005747103658			D7	SYBR Green I	Unchecked	1.5021	4.50793503481136	None			67
+fasciola_297U1.lc96p	Abs Quant		F8	eprs_gene	met2			Negative	Unchecked	Positive control						D8	SYBR Green I	Unchecked	0.0224	0.108521688636553	Pos Ctrl is negative, Replicate group contains positives and negatives.			68
+fasciola_297U1.lc96p	Abs Quant		F9	eprs_gene	met3	33.68		Positive	Unchecked	Positive control		33.4333333333333	0.261023626006025			D9	SYBR Green I	Unchecked	1.4371	4.55325402254444	None			69
+fasciola_297U1.lc96p	Abs Quant		F10	eprs_gene	ad1	24.85		Positive	Unchecked	Positive control		24.59	0.227156333832012			D10	SYBR Green I	Unchecked	1.9273	5.4934973781476	None			70
+fasciola_297U1.lc96p	Abs Quant		F11	eprs_gene	ad2	24.59		Positive	Unchecked	Positive control		24.44	0.141067359796658			D11	SYBR Green I	Unchecked	1.7096	5.21977316185286	None			71
+fasciola_297U1.lc96p	Abs Quant		F12	eprs_gene	ad3	26.06		Positive	Unchecked	Positive control		26.0166666666667	0.247857485933618			D12	SYBR Green I	Unchecked	1.7395	5.23468244303591	None			72
+fasciola_297U1.lc96p	Abs Quant		G1	eprs_gene	DNA	24.76		Positive	Unchecked	Positive control		24.7241666666667	0.137672756487214			G1	SYBR Green I	Unchecked	1.3059	4.53869907703464	None			73
+fasciola_297U1.lc96p	Abs Quant		G2	eprs_gene	DNA	24.67		Positive	Unchecked	Positive control		24.7241666666667	0.137672756487214			G1	SYBR Green I	Unchecked	1.4509	4.86588086783133	None			74
+fasciola_297U1.lc96p	Abs Quant		G3	eprs_gene	DNA	24.87		Positive	Unchecked	Positive control		24.7241666666667	0.137672756487214			G1	SYBR Green I	Unchecked	1.441	4.75948750739528	None			75
+fasciola_297U1.lc96p	Abs Quant		G4	eprs_gene	DNA	24.74		Positive	Unchecked	Positive control		24.7241666666667	0.137672756487214			G1	SYBR Green I	Unchecked	1.6276	5.10649359562671	None			76
+fasciola_297U1.lc96p	Abs Quant		G5	eprs_gene	DNA	24.62		Positive	Unchecked	Positive control		24.7241666666667	0.137672756487214			G1	SYBR Green I	Unchecked	1.592	4.97582449461277	None			77
+fasciola_297U1.lc96p	Abs Quant		G6	eprs_gene	DNA	24.78		Positive	Unchecked	Positive control		24.7241666666667	0.137672756487214			G1	SYBR Green I	Unchecked	1.3238	4.5989524729262	None			78
+fasciola_297U1.lc96p	Abs Quant		G7	eprs_gene	DNA	24.67		Positive	Unchecked	Positive control		24.7241666666667	0.137672756487214			G1	SYBR Green I	Unchecked	1.5973	5.05987102094789	None			79
+fasciola_297U1.lc96p	Abs Quant		G8	eprs_gene	DNA	24.87		Positive	Unchecked	Positive control		24.7241666666667	0.137672756487214			G1	SYBR Green I	Unchecked	1.5506	5.00913055746972	None			80
+fasciola_297U1.lc96p	Abs Quant		G9	eprs_gene	DNA	24.51		Positive	Unchecked	Positive control		24.7241666666667	0.137672756487214			G1	SYBR Green I	Unchecked	1.5834	4.99365972964957	None			81
+fasciola_297U1.lc96p	Abs Quant		G10	eprs_gene	DNA	24.67		Positive	Unchecked	Positive control		24.7241666666667	0.137672756487214			G1	SYBR Green I	Unchecked	1.6774	5.0952199072458	None			82
+fasciola_297U1.lc96p	Abs Quant		G11	eprs_gene	DNA	24.55		Positive	Unchecked	Positive control		24.7241666666667	0.137672756487214			G1	SYBR Green I	Unchecked	1.7173	5.2193736164837	None			83
+fasciola_297U1.lc96p	Abs Quant		G12	eprs_gene	DNA	24.98		Positive	Unchecked	Positive control		24.7241666666667	0.137672756487214			G1	SYBR Green I	Unchecked	1.7243	5.23238863201088	None			84
+fasciola_297U1.lc96p	Abs Quant		H1	760G1	None			Negative	Unchecked	Negative control						H1	SYBR Green I	Unchecked	0.0403	0.315515421363122	None			85
+fasciola_297U1.lc96p	Abs Quant		H2	760G1	None			Negative	Unchecked	Negative control						H1	SYBR Green I	Unchecked	0.0125	0.460115836963236	None			86
+fasciola_297U1.lc96p	Abs Quant		H3	760G1	None			Negative	Unchecked	Negative control						H1	SYBR Green I	Unchecked	0.0246	0.744289324097162	None			87
+fasciola_297U1.lc96p	Abs Quant		H4	355Z1	None			Negative	Unchecked	Negative control						H4	SYBR Green I	Unchecked	0.0831	0.233440629999535	None			88
+fasciola_297U1.lc96p	Abs Quant		H5	355Z1	None			Negative	Unchecked	Negative control						H4	SYBR Green I	Unchecked	0.459	0.761596448412808	None			89
+fasciola_297U1.lc96p	Abs Quant		H6	355Z1	None			Negative	Unchecked	Negative control						H4	SYBR Green I	Unchecked	0.0233	0.587566985517822	None			90
+fasciola_297U1.lc96p	Abs Quant		H7	297U1	None			Negative	Unchecked	Negative control						H7	SYBR Green I	Unchecked	0.0765	0.181869086237397	None			91
+fasciola_297U1.lc96p	Abs Quant		H8	297U1	None			Negative	Unchecked	Negative control						H7	SYBR Green I	Unchecked	0.0289	0.0576857232992406	None			92
+fasciola_297U1.lc96p	Abs Quant		H9	297U1	None			Negative	Unchecked	Negative control						H7	SYBR Green I	Unchecked	0.0516	0.0962833899318726	None			93
+fasciola_297U1.lc96p	Abs Quant		H10	eprs_gene	None			Negative	Unchecked	Negative control						H10	SYBR Green I	Unchecked	0.0171	0.363824263116293	None			94
+fasciola_297U1.lc96p	Abs Quant		H11	eprs_gene	None			Negative	Unchecked	Negative control						H10	SYBR Green I	Unchecked	0.0008	0.00218047784467291	None			95
+fasciola_297U1.lc96p	Abs Quant		H12	eprs_gene	None			Negative	Unchecked	Negative control						H10	SYBR Green I	Unchecked	0.011	0.0797227455686264	None			96
